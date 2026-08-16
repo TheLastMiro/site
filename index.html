@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+
+<html lang="ru" style=""><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<title>Молочные Традиции - Каталог</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+  tailwind.config = {
+    darkMode: "class",
+    theme: {
+      extend: {
+        "colors": {
+                "on-background": "#191c1d",
+                "primary-fixed": "#dae2fd",
+                "tertiary-fixed-dim": "#b7c8e1",
+                "on-tertiary-fixed": "#0b1c30",
+                "border-light": "#E2E8F0",
+                "background": "#f8f9fa",
+                "tertiary": "#000000",
+                "secondary-fixed-dim": "#68dba9",
+                "outline": "#76777d",
+                "primary-container": "#131b2e",
+                "border-subtle": "#F1F5F9",
+                "surface-bright": "#f8f9fa",
+                "surface-container-high": "#e7e8e9",
+                "on-tertiary": "#ffffff",
+                "surface-container-highest": "#e1e3e4",
+                "on-tertiary-fixed-variant": "#38485d",
+                "accent-bg": "#ECFDF5",
+                "surface-container": "#edeeef",
+                "tertiary-fixed": "#d3e4fe",
+                "on-secondary": "#ffffff",
+                "on-secondary-fixed": "#002114",
+                "inverse-on-surface": "#f0f1f2",
+                "on-tertiary-container": "#75859d",
+                "secondary-container": "#82f5c1",
+                "on-error": "#ffffff",
+                "secondary-fixed": "#85f8c4",
+                "outline-variant": "#c6c6cd",
+                "on-surface-variant": "#45464d",
+                "on-error-container": "#93000a",
+                "tertiary-container": "#0b1c30",
+                "primary": "#000000",
+                "surface-tint": "#565e74",
+                "inverse-primary": "#bec6e0",
+                "on-primary-fixed": "#131b2e",
+                "surface-container-lowest": "#ffffff",
+                "inverse-surface": "#2e3132",
+                "surface-container-low": "#f3f4f5",
+                "error": "#ba1a1a",
+                "error-container": "#ffdad6",
+                "surface": "#FFFFFF",
+                "on-primary-container": "#7c839b",
+                "on-secondary-container": "#00714e",
+                "on-surface": "#191c1d",
+                "secondary": "#006c4a",
+                "text-muted": "#94A3B8",
+                "surface-variant": "#e1e3e4",
+                "surface-dim": "#d9dadb",
+                "primary-fixed-dim": "#bec6e0",
+                "on-primary": "#ffffff",
+                "on-secondary-fixed-variant": "#005137",
+                "on-primary-fixed-variant": "#3f465c"
+        },
+        "borderRadius": {
+                "DEFAULT": "0.25rem",
+                "lg": "0.5rem",
+                "xl": "0.75rem",
+                "full": "9999px"
+        },
+        "spacing": {
+                "lg": "20px",
+                "gutter": "18px",
+                "md": "18px",
+                "xs": "8px",
+                "xl": "24px",
+                "margin-mobile": "20px",
+                "base": "4px",
+                "sm": "12px"
+        },
+        "fontFamily": {
+                "headline-lg": [
+                        "Plus Jakarta Sans"
+                ],
+                "badge-caps": [
+                        "Plus Jakarta Sans"
+                ],
+                "label-bold": [
+                        "Plus Jakarta Sans"
+                ],
+                "card-title": [
+                        "Plus Jakarta Sans"
+                ],
+                "price-display": [
+                        "Plus Jakarta Sans"
+                ],
+                "label-sm": [
+                        "Plus Jakarta Sans"
+                ],
+                "body-md": [
+                        "Plus Jakarta Sans"
+                ],
+                "caption": [
+                        "Plus Jakarta Sans"
+                ]
+        },
+        "fontSize": {
+                "headline-lg": [
+                        "1.35rem",
+                        {
+                                "lineHeight": "1.2",
+                                "letterSpacing": "-0.02em",
+                                "fontWeight": "800"
+                        }
+                ],
+                "badge-caps": [
+                        "0.6875rem",
+                        {
+                                "lineHeight": "1",
+                                "letterSpacing": "0.06em",
+                                "fontWeight": "700"
+                        }
+                ],
+                "label-bold": [
+                        "0.8125rem",
+                        {
+                                "lineHeight": "1.2",
+                                "fontWeight": "600"
+                        }
+                ],
+                "card-title": [
+                        "1.05rem",
+                        {
+                                "lineHeight": "1.4",
+                                "letterSpacing": "-0.01em",
+                                "fontWeight": "700"
+                        }
+                ],
+                "price-display": [
+                        "1.25rem",
+                        {
+                                "lineHeight": "1.2",
+                                "letterSpacing": "-0.02em",
+                                "fontWeight": "800"
+                        }
+                ],
+                "label-sm": [
+                        "0.8125rem",
+                        {
+                                "lineHeight": "1.2",
+                                "fontWeight": "500"
+                        }
+                ],
+                "body-md": [
+                        "0.875rem",
+                        {
+                                "lineHeight": "1.5",
+                                "fontWeight": "500"
+                        }
+                ],
+                "caption": [
+                        "0.75rem",
+                        {
+                                "lineHeight": "1.4",
+                                "fontWeight": "400"
+                        }
+                ]
+        }
+},
+    },
+  }
+</script>
+<style>
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: #f8f9fa;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        .tab {
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .tab.active {
+            background-color: #000000;
+            color: #ffffff;
+            border-color: #000000;
+            box-shadow: 0 4px 12px rgba(15, 23, 42, 0.15);
+        }
+        .card {
+            display: none;
+        }
+        .card.show {
+            display: flex;
+        }
+        
+        /* Modern Whitespace styling */
+        .glass-header {
+            background-color: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+        
+        /* Modal Lightbox styling */
+        #lightbox {
+            display: none;
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+        }
+        #lightbox.show {
+            display: flex;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+</head>
+<body class="bg-background text-on-surface pb-[80px]" data-image-base-path="/assets/products/">
+<!-- Sticky Header -->
+<header class="glass-header sticky top-0 z-[100] border-b border-border-light shadow-sm flex flex-col items-center pt-[18px] pb-[14px] px-margin-mobile">
+<span class="inline-block bg-accent-bg text-secondary font-badge-caps text-badge-caps uppercase px-[10px] py-1 rounded-full mb-[6px]">Оптовый каталог</span>
+<h1 class="font-headline-lg text-headline-lg text-primary mb-[2px]">«Молочные Традиции»</h1>
+<p class="font-label-sm text-label-sm text-on-surface-variant mb-sm">г. Москва • Натуральная продукция</p>
+<div class="w-full relative mb-3 max-w-[400px]">
+<span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant">search</span>
+<input class="w-full pl-10 pr-4 py-2 bg-surface border border-border-light rounded-full font-body-md text-body-md focus:outline-none focus:border-primary focus:ring-1 focus:ring-primary transition-colors" id="searchInput" placeholder="Поиск товаров..." type="text"/>
+</div>
+<a class="inline-flex items-center justify-center gap-2 bg-primary text-on-primary font-label-bold text-label-bold px-[18px] py-2 rounded-full active:scale-[0.97] transition-transform" href="tel:+79774875383">
+<span class="material-symbols-outlined text-[16px]">call</span>
+            +7 977 487 53 83
+        </a>
+</header>
+<!-- Category Tabs Navigation -->
+<div class="sticky top-[150px] z-[99] bg-surface/95 backdrop-blur-md border-b border-border-light py-[14px]">
+<div class="flex overflow-x-auto no-scrollbar px-margin-mobile gap-2" id="tabs"><button class="tab active px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="all">Все товары</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="tvorozhny_produkt">Творожный продукт</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="sabah">Продукция «Sabah»</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="fermerskie_produkty">Фермерские продукты</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="tvorozhnye_syry">Творожные сыры</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="kopcheny_syr">Копчёный сыр</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="syry">Сыры ГОСТ</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="tvorozhnaya_massa">Творожная масса</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="syrny_produkt">Сырный продукт</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="plavleny_syr">Плавленый сыр</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="yeremyan">Продукция Yeremyan</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="rassolnye_syry">Рассольные сыры</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="slivochnoe_maslo">Сливочное масло и Спреды</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="maconi">Мацони</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="smetanny_produkt">Сметанный продукт</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="deserty">Десерты</button><button class="tab px-[18px] py-[9px] rounded-full bg-surface text-on-surface-variant border border-border-light whitespace-nowrap font-label-bold text-label-bold shadow-sm" data-category="slivki">Сливки</button></div>
+</div>
+<!-- Product Grid -->
+<main class="grid grid-cols-2 gap-3 p-margin-mobile" id="catalog">
+<!-- Populated by JS -->
+</main>
+<!-- Footer -->
+<footer class="text-center py-9 px-margin-mobile border-t border-border-light mt-5">
+<p class="font-caption text-caption text-text-muted mb-1">ООО «Молочные Традиции» © 2026. Все права защищены.</p>
+<p class="font-caption text-caption text-text-muted">Цены указаны без НДС. Наличие товара уточняйте по телефону.</p>
+</footer>
+<!-- Lightbox Modal -->
+<div class="fixed inset-0 z-[200] bg-black/90 flex items-center justify-center p-4" id="lightbox">
+<button class="absolute top-4 right-4 text-white p-2 rounded-full bg-black/50 hover:bg-black/80 transition-colors" id="lightbox-close">
+<span class="material-symbols-outlined">close</span>
+</button>
+<img alt="Zoomed Product" class="max-w-full max-h-full object-contain rounded-lg" id="lightbox-img" src=""/>
+</div>
+<script>
+    // Transliteration map
+    const ru2en = {
+        'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 'е':'e', 'ё':'e', 'ж':'zh', 'з':'z', 'и':'i', 'й':'y',
+        'к':'k', 'л':'l', 'м':'m', 'н':'n', 'о':'o', 'п':'p', 'р':'r', 'с':'s', 'т':'t', 'у':'u', 'ф':'f',
+        'х':'kh', 'ц':'ts', 'ч':'ch', 'ш':'sh', 'щ':'sch', 'ъ':'', 'ы':'y', 'ь':'', 'э':'e', 'ю':'yu', 'я':'ya',
+        'А':'A', 'Б':'B', 'В':'V', 'Г':'G', 'Д':'D', 'Е':'E', 'Ё':'E', 'Ж':'Zh', 'З':'Z', 'И':'I', 'Й':'Y',
+        'К':'K', 'Л':'L', 'М':'M', 'Н':'N', 'О':'O', 'П':'P', 'Р':'R', 'С':'S', 'Т':'T', 'У':'U', 'Ф':'F',
+        'Х':'Kh', 'Ц':'Ts', 'Ч':'Ch', 'Ш':'Sh', 'Щ':'Sch', 'Ъ':'', 'Ы':'Y', 'Ь':'', 'Э':'E', 'Ю':'Yu', 'Я':'Ya',
+        ' ' : '_', '«': '', '»': '', '%': '', ',': '_', '.': '_', '-': '_', '–': '_', '+': '', '(': '', ')': '', '"': '', '/': '_'
+    };
+
+    function transliterate(word) {
+        return word.split('').map(char => ru2en[char] !== undefined ? ru2en[char] : char).join('').replace(/_+/g, '_').replace(/_$/, '');
+    }
+
+    const productsData = [
+        // Творожный продукт
+        { name: 'Творожный продукт 9% коробка 5 кг', price: '140', unit: 'кг', category: 'tvorozhny_produkt', status: 1, oldPrice: '130' },
+        { name: 'Творожный продукт 9% ведро 5 кг', price: '145', unit: 'кг', category: 'tvorozhny_produkt', status: 2, oldPrice: '160' },
+        { name: 'Творожный продукт 9% ведро 10 кг', price: '145', unit: 'кг', category: 'tvorozhny_produkt', status: 3 },
+        { name: 'Творожный продукт 18% коробка 5 кг', price: '140', unit: 'кг', category: 'tvorozhny_produkt' },
+        { name: 'Творожный продукт 18% ведро 5 кг', price: '145', unit: 'кг', category: 'tvorozhny_produkt' },
+        { name: 'Творожный продукт 18% ведро 10 кг', price: '145', unit: 'кг', category: 'tvorozhny_produkt' },
+        // Продукция Sabah
+        { name: 'Sabah Cream Cheese 0,750 кг', price: '350', unit: 'шт', category: 'sabah' },
+        { name: 'Sabah Cream Cheese 1,5 кг', price: '550', unit: 'шт', category: 'sabah' },
+        // Фермерские продукты
+        { name: 'Блины', price: '450', unit: 'кг', category: 'fermerskie_produkty' },
+        { name: 'Рулет Большой', price: '450', unit: 'кг', category: 'fermerskie_produkty' },
+        { name: 'Рулет Мини', price: '450', unit: 'кг', category: 'fermerskie_produkty' },
+        { name: 'Каймак (Сметана домашняя) 3 кг', price: '1 260', unit: 'шт', category: 'fermerskie_produkty' },
+        { name: 'Сыр домашний (Белый)', price: '470', unit: 'кг', category: 'fermerskie_produkty' },
+        { name: 'Грузинская Моцарелла 500 г', price: '280', unit: 'шт', category: 'fermerskie_produkty' },
+        { name: 'Мотал', price: '280', unit: 'шт', category: 'fermerskie_produkty' },
+        { name: 'Мотал Овечий Эхигнадзор', price: '280', unit: 'шт', category: 'fermerskie_produkty' },
+        { name: 'Сулугуни Хинкали', price: '180', unit: 'шт', category: 'fermerskie_produkty' },
+        // Творожные сыры
+        { name: 'Творожный сыр «Чудское Озеро» 1 кг', price: '500', unit: 'шт', category: 'tvorozhnye_syry' },
+        { name: 'Hochland Cremette (Хохланд Креметте) 1 кг', price: '560', unit: 'шт', category: 'tvorozhnye_syry' },
+        { name: 'Hochland Cremette (Хохланд Креметте) 2,2 кг', price: '1 100', unit: 'шт', category: 'tvorozhnye_syry' },
+        { name: 'Hochland Cremette (Хохланд Креметте) 10 кг', price: '5 000', unit: 'шт', category: 'tvorozhnye_syry' },
+        { name: 'Фетакса 400гр', price: '245', unit: 'шт', category: 'tvorozhnye_syry' },
+        // Копчёный сыр
+        { name: '«Нитка копчёная»', price: '430', unit: 'кг', category: 'kopcheny_syr' },
+        { name: '«Косичка копчёная»', price: '400', unit: 'кг', category: 'kopcheny_syr' },
+        { name: '«Балык копчёная»', price: '430', unit: 'кг', category: 'kopcheny_syr' },
+        // Сыры ГОСТ
+        { name: 'Дор Блю', price: '1 250', unit: 'кг', category: 'syry' },
+        { name: 'Сыр Голландский «Любань»', price: '560', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Пармезан Де Люкс» (круг) (Здравушка Милк)', price: '795', unit: 'кг', category: 'syry' },
+        { name: 'Пармезан «Юговской КМП»', price: '650', unit: 'кг', category: 'syry' },
+        { name: 'Пармезан четвертинка «Юговской КМП»', price: '650', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Грювер» (Здравушка Милк)', price: '715', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Знатный» (Здравушка Милк)', price: '715', unit: 'кг', category: 'syry' },
+        { name: 'Сыр Овечий «Ширак»', price: '800', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Ларец» классический', price: '610', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Черный Принц» куб (Кобрин)', price: '755', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Тильзитер» Кобрин', price: '735', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Ларец» с греческими орехами', price: '630', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Аристократ» брус', price: '650', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Аристократ» куб', price: '655', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Аристократ» с греческими орехами «Белослава»', price: '680', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Мегард»', price: '710', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Монблан Снежная Вершина» (Кобрин)', price: '920', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Монблан Старый Утёс»', price: '880', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Арамель» с пажетником 50% (Кобрин)', price: '767', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Бургомистр» 50% куб Кобрин', price: '880', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Пан Кобринъ» с ароматом топлёного молока (куб) (Кобрин)', price: '760', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Российский» фирменный 50% (Кобрин)', price: '620', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Никольский» с ароматом сливок (куб) (Кобрин)', price: '750', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Сыронежный ГРАФ» (Белослава) куб', price: '645', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Сыронежный ГРАФ» (Белослава) брус', price: '640', unit: 'кг', category: 'syry' },
+        { name: 'Сыр Ламбер (шар)', price: '800', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Амстердам»', price: '715', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Бофор»', price: '1 100', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Вохма Малыш»', price: '710', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Вохма Малыш» с грецким орехом', price: '745', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Вохма Малыш» с пажитником', price: '745', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Золотое кольцо»', price: '715', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Раклет»', price: '1 130', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Романовъ»', price: '960', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Старая Кострома»', price: '1 030', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Тет де Муан»', price: '1 400', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Трюфель»', price: '1 160', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Сулугуни Стародуб»', price: '540', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Белорусское Золото»', price: '520', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Гауда" (Ичалки)', price: '530', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Золотая Гауда" (Ичалки)', price: '670', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Диетический" (Ичалки)', price: '530', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Маасдам" (Ичалки)', price: '685', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Манчего" (Ичалки)', price: '595', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Мраморный" (Ичалки)', price: '530', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Российский Экстра" (Ичалки)', price: '530', unit: 'кг', category: 'syry' },
+        { name: 'Сыр "Императорский" (Ичалки)', price: '630', unit: 'кг', category: 'syry' },
+        { name: 'Сыр «Аристократ с грецким орехом» кубик (Белослава)', price: '—', unit: '—', category: 'syry' },
+        { name: 'Сыр Маасдам (Белослава)', price: '—', unit: '—', category: 'syry' },
+        { name: 'Пармезан де люкс (Белослава)', price: '—', unit: '—', category: 'syry' },
+        // Творожная масса
+        { name: 'Творожная масса (вишня + шоколад) ведро 3 кг', price: '550', unit: 'шт', category: 'tvorozhnaya_massa' },
+        { name: 'Творожная масса (вишня) ведро 3 кг', price: '550', unit: 'шт', category: 'tvorozhnaya_massa' },
+        { name: 'Творожная масса (изюм) ведро 3 кг', price: '550', unit: 'шт', category: 'tvorozhnaya_massa' },
+        { name: 'Творожная масса (курага) ведро 3 кг', price: '550', unit: 'шт', category: 'tvorozhnaya_massa' },
+        { name: 'Творожная масса (шоколад) ведро 3 кг', price: '550', unit: 'шт', category: 'tvorozhnaya_massa' },
+        // Сырный продукт
+        { name: 'Голландский оригинальный «Юговской КМП»', price: '330', unit: 'кг', category: 'syrny_produkt' },
+        { name: 'Тильзитер «Юговской КМП»', price: '330', unit: 'кг', category: 'syrny_produkt' },
+        { name: 'Российский круг «Юговской КМП»', price: '330', unit: 'кг', category: 'syrny_produkt' },
+        { name: 'Сырный продукт с топлёным молоком 50% «Злтака»', price: '370', unit: 'кг', category: 'syrny_produkt' },
+        { name: 'Сырный продукт Сметанковый «Ладушка»', price: '445', unit: 'кг', category: 'syrny_produkt' },
+        { name: 'Сырный продукт Сливочный «Ладушка»', price: '445', unit: 'кг', category: 'syrny_produkt' },
+        { name: 'Сырный продукт Российский «Ладушка»', price: '445', unit: 'кг', category: 'syrny_produkt' },
+        { name: 'Адыгейский домашний', price: '300', unit: 'кг', category: 'syrny_produkt' },
+        // Плавленый сыр
+        { name: 'Моцарелла оригинал Мультипро (Алти)', price: '430', unit: 'кг', category: 'plavleny_syr' },
+        { name: 'Моцарелла Экстра Мультипро (Алти)', price: '350', unit: 'кг', category: 'plavleny_syr' },
+        { name: 'Моцарелла «Юговской КМП»', price: '330', unit: 'кг', category: 'plavleny_syr' },
+        { name: 'Сыр Моцарелла Пицца «Турвский МК»', price: '630', unit: 'шт', category: 'plavleny_syr' },
+        { name: 'Сыр «Hochland» плавленый ломтевой «Бистро Чеддер»', price: '810', unit: 'шт', category: 'plavleny_syr' },
+        // Продукция Yeremyan
+        { name: 'YEREMYAN Сыр ЧАНАХ 400 г', price: '320', unit: 'уп', category: 'yeremyan' },
+        { name: 'YEREMYAN Сыр ЛОРИ 400 г', price: '330', unit: 'уп', category: 'yeremyan' },
+        { name: 'YEREMYAN Чанах весовой', price: '620', unit: 'кг', category: 'yeremyan' },
+        // Рассольные сыры
+        { name: 'Болгарская Брынза 1,5 кг', price: '800', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Болгарская Брынза 2,5 кг', price: '1 350', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Сулугуни ведро 5 кг', price: '1 650', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Сулугуни 1 кг', price: '500', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Болгарская Брынза вакуумная НАК уп. 250 г', price: '140', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Сыр Имеретинский ГОСТ', price: '350', unit: 'кг', category: 'rassolnye_syry' },
+        { name: 'Сыр Имеретинский Ереван', price: '380', unit: 'кг', category: 'rassolnye_syry' },
+        { name: 'Чанах «Апаран» 0,7 кг', price: '275', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах «Апаран» 1,5 кг', price: '500', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах «Апаран» 2,5 кг', price: '780', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах «Ереван» 0,7 кг', price: '275', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах «Ереван» 1,5 кг', price: '500', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах «Ереван» 2,5 кг', price: '780', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах «Ширак» 0,6 кг', price: '245', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах «Ширак» 2,5 кг', price: '840', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Фета 1,5 кг', price: '950', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Арменайк 0,4 кг', price: '280', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Арменайк 0,9 кг', price: '535', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Арменайк 1,7 кг', price: '920', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Арменайк 2,7 кг', price: '1 440', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Арменайк 4,5 кг', price: '2 380', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Чанах с чебрецом «Ереван» 0,7 кг', price: '285', unit: 'шт', category: 'rassolnye_syry' },
+        { name: 'Сыр Чечил', price: '385', unit: 'кг', category: 'rassolnye_syry' },
+        { name: 'Сыр Чечил Арм', price: '450', unit: 'кг', category: 'rassolnye_syry' },
+        // Сливочное масло и Спреды
+        { name: 'Топлёное масло 600 г Луговой', price: '155', unit: 'шт', category: 'slivochnoe_maslo' },
+        { name: 'Топлёное масло 600 г Белорусское', price: '170', unit: 'шт', category: 'slivochnoe_maslo' },
+        { name: 'Масло «Настоящее» 5 кг', price: '530', unit: 'кг', category: 'slivochnoe_maslo' },
+        { name: 'Спред Землянский узоры 72% 5 кг', price: '244', unit: 'кг', category: 'slivochnoe_maslo' },
+        { name: 'Спред р/с 72,5% Земляночка мон 5 кг', price: '541', unit: 'кг', category: 'slivochnoe_maslo' },
+        { name: 'Спред Землянский узоры 72% 10 кг', price: '244', unit: 'кг', category: 'slivochnoe_maslo' },
+        { name: 'Спред Землянский узоры 82,5% 5 кг', price: '308', unit: 'кг', category: 'slivochnoe_maslo' },
+        { name: 'Спред Землянский узоры 82,5% 10 кг', price: '306', unit: 'кг', category: 'slivochnoe_maslo' },
+        { name: 'Топлёное масло ГХИ', price: '300', unit: 'шт', category: 'slivochnoe_maslo' },
+        { name: 'Масло сладко-сливочное 69% мон 5 кг', price: '830', unit: 'кг', category: 'slivochnoe_maslo' },
+        { name: 'Масло Ичалковское Экстра 80% 180 г', price: '145', unit: 'шт', category: 'slivochnoe_maslo' },
+        { name: 'Масло Ичалковское Экстра 80% 400 г', price: '335', unit: 'шт', category: 'slivochnoe_maslo' },
+        // Мацони
+        { name: 'Катык «МТ»', price: '610', unit: 'уп', category: 'maconi' },
+        { name: 'Катык «Ереван»', price: '610', unit: 'уп', category: 'maconi' },
+        { name: 'Мацони «Монастырская Буренка»', price: '660', unit: 'уп', category: 'maconi' },
+        { name: 'Мацони «Апаран»', price: '610', unit: 'уп', category: 'maconi' },
+        { name: 'Катык «Апаран»', price: '610', unit: 'уп', category: 'maconi' },
+        { name: 'Мацони «Ереван»', price: '610', unit: 'уп', category: 'maconi' },
+        { name: 'Сузьма 1 кг ведро', price: '150', unit: 'кг', category: 'maconi' },
+        { name: 'Сузьма 5 кг', price: '130', unit: 'кг', category: 'maconi' },
+        { name: 'Сузьма 10 кг', price: '100', unit: 'кг', category: 'maconi' },
+        // Сметанный продукт
+        { name: 'Сметанный продукт «МТ» 20% 5 кг ведро', price: '90', unit: 'кг', category: 'smetanny_produkt' },
+        { name: 'Сметанный продукт «Землянские узоры» 20% 5 кг ведро', price: '120', unit: 'кг', category: 'smetanny_produkt' },
+        { name: 'Сметанный продукт «Альпийская коровка» 30% 5кг', price: '—', unit: 'кг', category: 'smetanny_produkt' },
+        // Десерты
+        { name: 'Десерт «Малина»', price: '522', unit: 'шт', category: 'deserty' },
+        { name: 'Десерт «Клубника»', price: '522', unit: 'шт', category: 'deserty' },
+        { name: 'Десерт «Черника»', price: '522', unit: 'шт', category: 'deserty' },
+        { name: 'Десерт «Вишня»', price: '522', unit: 'шт', category: 'deserty' },
+        { name: 'Десерт «Киви»', price: '522', unit: 'шт', category: 'deserty' },
+        { name: 'Десерт «Абрикос – Манго»', price: '522', unit: 'шт', category: 'deserty' },
+        // Сливки
+        { name: 'Петмол 33% 1 л', price: '380', unit: 'шт', category: 'slivki' },
+        { name: 'Шантипак 1 л', price: '235', unit: 'шт', category: 'slivki' }
+    ];
+
+    const catalogContainer = document.getElementById('catalog');
+    productsData.forEach(prod => {
+        const baseImgName = transliterate(prod.name);
+        
+        let imagesHTML = '';
+        let dotsHTML = '';
+        for(let i=1; i<=3; i++) {
+            imagesHTML += `<img class="min-w-full w-full h-full object-cover snap-center cursor-pointer product-img" alt="${prod.name} - View ${i}" src="Photos/${baseImgName}_${i}.jpg">`;
+            dotsHTML += `<div class="w-1.5 h-1.5 rounded-full ${i === 1 ? 'bg-white/90 opacity-100' : 'bg-white/50 opacity-50'} shadow-sm transition-opacity"></div>`;
+        }
+
+        const status = prod.status || 0;
+        let cardGlow = 'shadow-[0_4px_20px_-2px_rgba(15,23,42,0.05)]';
+        let statusText = 'В наличии';
+        let statusColorClass = 'text-secondary';
+        let statusBgClass = 'bg-secondary';
+        
+        if (status === 1) {
+            cardGlow = 'shadow-[0_0_15px_rgba(239,68,68,0.3)]';
+            statusText = 'Цена повысилась';
+            statusColorClass = 'text-red-500';
+            statusBgClass = 'bg-red-500';
+        } else if (status === 2) {
+            cardGlow = 'shadow-[0_0_15px_rgba(34,197,94,0.3)]';
+            statusText = 'Цена снизилась';
+            statusColorClass = 'text-green-500';
+            statusBgClass = 'bg-green-500';
+        } else if (status === 3) {
+            cardGlow = 'shadow-[0_0_15px_rgba(234,179,8,0.3)]';
+            statusText = 'Акция';
+            statusColorClass = 'text-yellow-500';
+            statusBgClass = 'bg-yellow-500';
+        }
+
+        const oldPriceHTML = prod.oldPrice ? `<div class="text-xs text-text-muted line-through">${prod.oldPrice} руб.</div>` : '';
+
+        const cardHTML = `
+        <div class="card show flex-col bg-surface rounded-xl overflow-hidden border border-border-light ${cardGlow} transition-shadow" data-category="${prod.category}" data-name="${prod.name.toLowerCase()}">
+            <div class="w-full aspect-[3/4] relative overflow-hidden group">
+                <div class="flex w-full h-full overflow-x-auto snap-x snap-mandatory no-scrollbar image-slider">
+                    ${imagesHTML}
+                </div>
+                <div class="absolute bottom-2 left-0 right-0 flex justify-center gap-1.5 pointer-events-none slider-dots">
+                    ${dotsHTML}
+                </div>
+            </div>
+            <div class="p-3 flex flex-col flex-grow">
+                <h2 class="font-label-bold text-sm text-primary mb-2 line-clamp-2 leading-tight">${prod.name}</h2>
+                <div class="mt-auto">
+                    ${oldPriceHTML}
+                    <div class="flex items-baseline gap-1 mb-1">
+                        <span class="font-bold text-[1.1rem] text-primary">${prod.price} руб.</span>
+                        ${prod.unit ? `<span class="font-caption text-caption text-on-surface-variant">/ ${prod.unit}</span>` : ''}
+                    </div>
+                    <div class="flex items-center gap-1.5">
+                        <span class="w-1.5 h-1.5 rounded-full ${statusBgClass}"></span>
+                        <span class="${statusColorClass} font-label-bold text-[10px] uppercase tracking-wider">${statusText}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        `;
+        catalogContainer.insertAdjacentHTML('beforeend', cardHTML);
+    });
+</script>
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const tabs = document.querySelectorAll('.tab');
+            const cards = document.querySelectorAll('.card');
+            const searchInput = document.getElementById('searchInput');
+
+            function filterCards() {
+                const activeCategory = document.querySelector('.tab.active').dataset.category;
+                const searchTerm = searchInput.value.toLowerCase();
+
+                cards.forEach(card => {
+                    const matchesCategory = activeCategory === 'all' || card.dataset.category === activeCategory;
+                    const matchesSearch = card.dataset.name.includes(searchTerm);
+                    
+                    if (matchesCategory && matchesSearch) {
+                        card.classList.add('show');
+                    } else {
+                        card.classList.remove('show');
+                    }
+                });
+            }
+
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    tabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    filterCards();
+                });
+            });
+
+            if(searchInput) {
+                searchInput.addEventListener('input', filterCards);
+            }
+
+            // Handle slider dots pagination
+            document.querySelectorAll('.image-slider').forEach(slider => {
+                let isScrolling;
+                slider.addEventListener('scroll', () => {
+                    window.clearTimeout(isScrolling);
+                    isScrolling = setTimeout(() => {
+                        const index = Math.round(slider.scrollLeft / slider.clientWidth);
+                        const dotsContainer = slider.nextElementSibling;
+                        if(dotsContainer && dotsContainer.classList.contains('slider-dots')) {
+                            const dots = dotsContainer.querySelectorAll('div');
+                            dots.forEach((dot, i) => {
+                                if (i === index) {
+                                    dot.classList.replace('bg-white/50', 'bg-white/90');
+                                    dot.classList.replace('opacity-50', 'opacity-100');
+                                } else {
+                                    dot.classList.replace('bg-white/90', 'bg-white/50');
+                                    dot.classList.replace('opacity-100', 'opacity-50');
+                                }
+                            });
+                        }
+                    }, 50); // Debounce scroll event slightly
+                });
+            });
+            
+            // Lightbox functionality
+            const lightbox = document.getElementById('lightbox');
+            const lightboxImg = document.getElementById('lightbox-img');
+            const lightboxClose = document.getElementById('lightbox-close');
+
+            if(lightbox && lightboxImg && lightboxClose) {
+                document.querySelectorAll('.product-img').forEach(img => {
+                    img.addEventListener('click', (e) => {
+                        lightboxImg.src = e.target.src;
+                        lightbox.classList.add('show');
+                    });
+                });
+
+                lightboxClose.addEventListener('click', () => {
+                    lightbox.classList.remove('show');
+                });
+
+                lightbox.addEventListener('click', (e) => {
+                    if(e.target === lightbox) {
+                        lightbox.classList.remove('show');
+                    }
+                });
+            }
+        });
+    </script>
+</body></html>
