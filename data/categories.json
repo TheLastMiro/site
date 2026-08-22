@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tvorozhny_produkt",
+    "name": "Творожный продукт",
+    "sortOrder": 1
+  },
+  {
+    "id": "sabah",
+    "name": "Продукция Sabah",
+    "sortOrder": 2
+  },
+  {
+    "id": "fermerskie_produkty",
+    "name": "Фермерские продукты",
+    "sortOrder": 3
+  },
+  {
+    "id": "tvorozhnye_syry",
+    "name": "Творожные сыры",
+    "sortOrder": 4
+  },
+  {
+    "id": "kopcheny_syr",
+    "name": "Копчёный сыр",
+    "sortOrder": 5
+  },
+  {
+    "id": "syry",
+    "name": "Сыры ГОСТ",
+    "sortOrder": 6
+  },
+  {
+    "id": "tvorozhnaya_massa",
+    "name": "Творожная масса",
+    "sortOrder": 7
+  },
+  {
+    "id": "syrny_produkt",
+    "name": "Сырный продукт",
+    "sortOrder": 8
+  },
+  {
+    "id": "plavleny_syr",
+    "name": "Плавленый сыр",
+    "sortOrder": 9
+  },
+  {
+    "id": "yeremyan",
+    "name": "Продукция Yeremyan",
+    "sortOrder": 10
+  },
+  {
+    "id": "rassolnye_syry",
+    "name": "Рассольные сыры",
+    "sortOrder": 11
+  },
+  {
+    "id": "slivochnoe_maslo",
+    "name": "Сливочное масло и спреды",
+    "sortOrder": 12
+  },
+  {
+    "id": "maconi",
+    "name": "Мацони",
+    "sortOrder": 13
+  },
+  {
+    "id": "smetanny_produkt",
+    "name": "Сметанный продукт",
+    "sortOrder": 14
+  },
+  {
+    "id": "deserty",
+    "name": "Десерты",
+    "sortOrder": 15
+  },
+  {
+    "id": "slivki",
+    "name": "Сливки",
+    "sortOrder": 16
+  }
+]

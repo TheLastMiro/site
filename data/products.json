@@ -1,0 +1,3492 @@
+[
+  {
+    "id": "legacy-001",
+    "name": "Творожный продукт 9% коробка 5 кг",
+    "price": 140,
+    "oldPrice": 130,
+    "unit": "кг",
+    "category": "tvorozhny_produkt",
+    "availability": "in_stock",
+    "badge": "price_up",
+    "published": true,
+    "sortOrder": 1,
+    "images": [
+      {
+        "path": "/products/001-1.webp",
+        "alt": "Творожный продукт 9% коробка 5 кг",
+        "position": 1,
+        "legacyFile": "Tvorozhnyy_produkt_9_korobka_5_kg_1.jpg.jpg"
+      },
+      {
+        "path": "/products/001-2.webp",
+        "alt": "Творожный продукт 9% коробка 5 кг",
+        "position": 2,
+        "legacyFile": "Tvorozhnyy_produkt_9_korobka_5_kg_2.jpg"
+      },
+      {
+        "path": "/products/001-3.webp",
+        "alt": "Творожный продукт 9% коробка 5 кг",
+        "position": 3,
+        "legacyFile": "Tvorozhnyy_produkt_9_korobka_5_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-002",
+    "name": "Творожный продукт 9% ведро 5 кг",
+    "price": 145,
+    "oldPrice": 160,
+    "unit": "кг",
+    "category": "tvorozhny_produkt",
+    "availability": "in_stock",
+    "badge": "price_down",
+    "published": true,
+    "sortOrder": 2,
+    "images": []
+  },
+  {
+    "id": "legacy-003",
+    "name": "Творожный продукт 9% ведро 10 кг",
+    "price": 145,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "tvorozhny_produkt",
+    "availability": "in_stock",
+    "badge": "promo",
+    "published": true,
+    "sortOrder": 3,
+    "images": [
+      {
+        "path": "/products/003-1.webp",
+        "alt": "Творожный продукт 9% ведро 10 кг",
+        "position": 1,
+        "legacyFile": "Tvorozhnyy_produkt_9_vedro_10_kg_1.jpg"
+      },
+      {
+        "path": "/products/003-2.webp",
+        "alt": "Творожный продукт 9% ведро 10 кг",
+        "position": 2,
+        "legacyFile": "Tvorozhnyy_produkt_9_vedro_10_kg_2.jpg"
+      },
+      {
+        "path": "/products/003-3.webp",
+        "alt": "Творожный продукт 9% ведро 10 кг",
+        "position": 3,
+        "legacyFile": "Tvorozhnyy_produkt_9_vedro_10_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-004",
+    "name": "Творожный продукт 18% коробка 5 кг",
+    "price": 140,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "tvorozhny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 4,
+    "images": [
+      {
+        "path": "/products/004-1.webp",
+        "alt": "Творожный продукт 18% коробка 5 кг",
+        "position": 1,
+        "legacyFile": "Tvorozhnyy_produkt_18_korobka_5_kg_1.jpg"
+      },
+      {
+        "path": "/products/004-2.webp",
+        "alt": "Творожный продукт 18% коробка 5 кг",
+        "position": 2,
+        "legacyFile": "Tvorozhnyy_produkt_18_korobka_5_kg_2.jpg"
+      },
+      {
+        "path": "/products/004-3.webp",
+        "alt": "Творожный продукт 18% коробка 5 кг",
+        "position": 3,
+        "legacyFile": "Tvorozhnyy_produkt_18_korobka_5_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-005",
+    "name": "Творожный продукт 18% ведро 5 кг",
+    "price": 145,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "tvorozhny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 5,
+    "images": []
+  },
+  {
+    "id": "legacy-006",
+    "name": "Творожный продукт 18% ведро 10 кг",
+    "price": 145,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "tvorozhny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 6,
+    "images": [
+      {
+        "path": "/products/006-1.webp",
+        "alt": "Творожный продукт 18% ведро 10 кг",
+        "position": 1,
+        "legacyFile": "Tvorozhnyy_produkt_18_vedro_10_kg_1.jpg"
+      },
+      {
+        "path": "/products/006-2.webp",
+        "alt": "Творожный продукт 18% ведро 10 кг",
+        "position": 2,
+        "legacyFile": "Tvorozhnyy_produkt_18_vedro_10_kg_2.jpg"
+      },
+      {
+        "path": "/products/006-3.webp",
+        "alt": "Творожный продукт 18% ведро 10 кг",
+        "position": 3,
+        "legacyFile": "Tvorozhnyy_produkt_18_vedro_10_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-007",
+    "name": "Sabah Cream Cheese 0,750 кг",
+    "price": 350,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "sabah",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 7,
+    "images": [
+      {
+        "path": "/products/007-1.webp",
+        "alt": "Sabah Cream Cheese 0,750 кг",
+        "position": 1,
+        "legacyFile": "Sabah_Cream_Cheese_0_750_kg_1.jpg"
+      },
+      {
+        "path": "/products/007-2.webp",
+        "alt": "Sabah Cream Cheese 0,750 кг",
+        "position": 2,
+        "legacyFile": "Sabah_Cream_Cheese_0_750_kg_2.jpg"
+      },
+      {
+        "path": "/products/007-3.webp",
+        "alt": "Sabah Cream Cheese 0,750 кг",
+        "position": 3,
+        "legacyFile": "Sabah_Cream_Cheese_0_750_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-008",
+    "name": "Sabah Cream Cheese 1,5 кг",
+    "price": 550,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "sabah",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 8,
+    "images": [
+      {
+        "path": "/products/008-1.webp",
+        "alt": "Sabah Cream Cheese 1,5 кг",
+        "position": 1,
+        "legacyFile": "Sabah_Cream_Cheese_1_5_kg_1.jpg"
+      },
+      {
+        "path": "/products/008-2.webp",
+        "alt": "Sabah Cream Cheese 1,5 кг",
+        "position": 2,
+        "legacyFile": "Sabah_Cream_Cheese_1_5_kg_2.jpg"
+      },
+      {
+        "path": "/products/008-3.webp",
+        "alt": "Sabah Cream Cheese 1,5 кг",
+        "position": 3,
+        "legacyFile": "Sabah_Cream_Cheese_1_5_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-009",
+    "name": "Блины",
+    "price": 450,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 9,
+    "images": [
+      {
+        "path": "/products/009-1.webp",
+        "alt": "Блины",
+        "position": 1,
+        "legacyFile": "Bliny_1.jpg"
+      },
+      {
+        "path": "/products/009-2.webp",
+        "alt": "Блины",
+        "position": 2,
+        "legacyFile": "Bliny_2.jpg"
+      },
+      {
+        "path": "/products/009-3.webp",
+        "alt": "Блины",
+        "position": 3,
+        "legacyFile": "Bliny_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-010",
+    "name": "Рулет Большой",
+    "price": 450,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 10,
+    "images": [
+      {
+        "path": "/products/010-1.webp",
+        "alt": "Рулет Большой",
+        "position": 1,
+        "legacyFile": "Rulet_Bolshoy_1.jpg"
+      },
+      {
+        "path": "/products/010-2.webp",
+        "alt": "Рулет Большой",
+        "position": 2,
+        "legacyFile": "Rulet_Bolshoy_2.jpg"
+      },
+      {
+        "path": "/products/010-3.webp",
+        "alt": "Рулет Большой",
+        "position": 3,
+        "legacyFile": "Rulet_Bolshoy_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-011",
+    "name": "Рулет Мини",
+    "price": 450,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 11,
+    "images": [
+      {
+        "path": "/products/011-1.webp",
+        "alt": "Рулет Мини",
+        "position": 1,
+        "legacyFile": "Rulet_Mini_1.jpg"
+      },
+      {
+        "path": "/products/011-2.webp",
+        "alt": "Рулет Мини",
+        "position": 2,
+        "legacyFile": "Rulet_Mini_2.jpg"
+      },
+      {
+        "path": "/products/011-3.webp",
+        "alt": "Рулет Мини",
+        "position": 3,
+        "legacyFile": "Rulet_Mini_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-012",
+    "name": "Каймак (Сметана домашняя) 3 кг",
+    "price": 1260,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 12,
+    "images": [
+      {
+        "path": "/products/012-1.webp",
+        "alt": "Каймак (Сметана домашняя) 3 кг",
+        "position": 1,
+        "legacyFile": "Kaymak_Smetana_domashnyaya_3_kg_1.jpg"
+      },
+      {
+        "path": "/products/012-2.webp",
+        "alt": "Каймак (Сметана домашняя) 3 кг",
+        "position": 2,
+        "legacyFile": "Kaymak_Smetana_domashnyaya_3_kg_2.jpg"
+      },
+      {
+        "path": "/products/012-3.webp",
+        "alt": "Каймак (Сметана домашняя) 3 кг",
+        "position": 3,
+        "legacyFile": "Kaymak_Smetana_domashnyaya_3_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-013",
+    "name": "Сыр домашний (Белый)",
+    "price": 470,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 13,
+    "images": [
+      {
+        "path": "/products/013-1.webp",
+        "alt": "Сыр домашний (Белый)",
+        "position": 1,
+        "legacyFile": "Syr_domashniy_Belyy_1.jpg"
+      },
+      {
+        "path": "/products/013-2.webp",
+        "alt": "Сыр домашний (Белый)",
+        "position": 2,
+        "legacyFile": "Syr_domashniy_Belyy_2.jpg"
+      },
+      {
+        "path": "/products/013-3.webp",
+        "alt": "Сыр домашний (Белый)",
+        "position": 3,
+        "legacyFile": "Syr_domashniy_Belyy_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-014",
+    "name": "Грузинская Моцарелла 500 г",
+    "price": 280,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 14,
+    "images": [
+      {
+        "path": "/products/014-1.webp",
+        "alt": "Грузинская Моцарелла 500 г",
+        "position": 1,
+        "legacyFile": "Gruzinskaya_Motsarella_500_g_1.jpg"
+      },
+      {
+        "path": "/products/014-2.webp",
+        "alt": "Грузинская Моцарелла 500 г",
+        "position": 2,
+        "legacyFile": "Gruzinskaya_Motsarella_500_g_2.jpg"
+      },
+      {
+        "path": "/products/014-3.webp",
+        "alt": "Грузинская Моцарелла 500 г",
+        "position": 3,
+        "legacyFile": "Gruzinskaya_Motsarella_500_g_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-015",
+    "name": "Мотал",
+    "price": 280,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 15,
+    "images": []
+  },
+  {
+    "id": "legacy-016",
+    "name": "Мотал Овечий Эхигнадзор",
+    "price": 280,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 16,
+    "images": [
+      {
+        "path": "/products/016-1.webp",
+        "alt": "Мотал Овечий Эхигнадзор",
+        "position": 1,
+        "legacyFile": "Motal_Ovechiy_Ekhignadzor_1.jpg"
+      },
+      {
+        "path": "/products/016-2.webp",
+        "alt": "Мотал Овечий Эхигнадзор",
+        "position": 2,
+        "legacyFile": "Motal_Ovechiy_Ekhignadzor_2.jpg"
+      },
+      {
+        "path": "/products/016-3.webp",
+        "alt": "Мотал Овечий Эхигнадзор",
+        "position": 3,
+        "legacyFile": "Motal_Ovechiy_Ekhignadzor_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-017",
+    "name": "Сулугуни Хинкали",
+    "price": 180,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "fermerskie_produkty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 17,
+    "images": [
+      {
+        "path": "/products/017-1.webp",
+        "alt": "Сулугуни Хинкали",
+        "position": 1,
+        "legacyFile": "Suluguni_Khinkali_1.jpg"
+      },
+      {
+        "path": "/products/017-2.webp",
+        "alt": "Сулугуни Хинкали",
+        "position": 2,
+        "legacyFile": "Suluguni_Khinkali_2.jpg"
+      },
+      {
+        "path": "/products/017-3.webp",
+        "alt": "Сулугуни Хинкали",
+        "position": 3,
+        "legacyFile": "Suluguni_Khinkali_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-018",
+    "name": "Творожный сыр «Чудское Озеро» 1 кг",
+    "price": 500,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 18,
+    "images": [
+      {
+        "path": "/products/018-1.webp",
+        "alt": "Творожный сыр «Чудское Озеро» 1 кг",
+        "position": 1,
+        "legacyFile": "Tvorozhnyy_syr_Chudskoe_Ozero_1_kg_1.jpg"
+      },
+      {
+        "path": "/products/018-2.webp",
+        "alt": "Творожный сыр «Чудское Озеро» 1 кг",
+        "position": 2,
+        "legacyFile": "Tvorozhnyy_syr_Chudskoe_Ozero_1_kg_2.jpg"
+      },
+      {
+        "path": "/products/018-3.webp",
+        "alt": "Творожный сыр «Чудское Озеро» 1 кг",
+        "position": 3,
+        "legacyFile": "Tvorozhnyy_syr_Chudskoe_Ozero_1_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-019",
+    "name": "Hochland Cremette (Хохланд Креметте) 1 кг",
+    "price": 560,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 19,
+    "images": [
+      {
+        "path": "/products/019-1.webp",
+        "alt": "Hochland Cremette (Хохланд Креметте) 1 кг",
+        "position": 1,
+        "legacyFile": "Hochland_Cremette_Khokhland_Kremette_1_kg_1.jpg"
+      },
+      {
+        "path": "/products/019-2.webp",
+        "alt": "Hochland Cremette (Хохланд Креметте) 1 кг",
+        "position": 2,
+        "legacyFile": "Hochland_Cremette_Khokhland_Kremette_1_kg_2.jpg"
+      },
+      {
+        "path": "/products/019-3.webp",
+        "alt": "Hochland Cremette (Хохланд Креметте) 1 кг",
+        "position": 3,
+        "legacyFile": "Hochland_Cremette_Khokhland_Kremette_1_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-020",
+    "name": "Hochland Cremette (Хохланд Креметте) 2,2 кг",
+    "price": 1100,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 20,
+    "images": [
+      {
+        "path": "/products/020-1.webp",
+        "alt": "Hochland Cremette (Хохланд Креметте) 2,2 кг",
+        "position": 1,
+        "legacyFile": "Hochland_Cremette_Khokhland_Kremette_2_2_kg_1.jpg"
+      },
+      {
+        "path": "/products/020-2.webp",
+        "alt": "Hochland Cremette (Хохланд Креметте) 2,2 кг",
+        "position": 2,
+        "legacyFile": "Hochland_Cremette_Khokhland_Kremette_2_2_kg_2.jpg"
+      },
+      {
+        "path": "/products/020-3.webp",
+        "alt": "Hochland Cremette (Хохланд Креметте) 2,2 кг",
+        "position": 3,
+        "legacyFile": "Hochland_Cremette_Khokhland_Kremette_2_2_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-021",
+    "name": "Hochland Cremette (Хохланд Креметте) 10 кг",
+    "price": 5000,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 21,
+    "images": []
+  },
+  {
+    "id": "legacy-022",
+    "name": "Фетакса 400гр",
+    "price": 245,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 22,
+    "images": []
+  },
+  {
+    "id": "legacy-023",
+    "name": "«Нитка копчёная»",
+    "price": 430,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "kopcheny_syr",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 23,
+    "images": []
+  },
+  {
+    "id": "legacy-024",
+    "name": "«Косичка копчёная»",
+    "price": 400,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "kopcheny_syr",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 24,
+    "images": [
+      {
+        "path": "/products/024-1.webp",
+        "alt": "«Косичка копчёная»",
+        "position": 1,
+        "legacyFile": "Kosichka_kopchenaya_1.jpg"
+      },
+      {
+        "path": "/products/024-2.webp",
+        "alt": "«Косичка копчёная»",
+        "position": 2,
+        "legacyFile": "Kosichka_kopchenaya_2.jpg"
+      },
+      {
+        "path": "/products/024-3.webp",
+        "alt": "«Косичка копчёная»",
+        "position": 3,
+        "legacyFile": "Kosichka_kopchenaya_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-025",
+    "name": "«Балык копчёная»",
+    "price": 430,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "kopcheny_syr",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 25,
+    "images": [
+      {
+        "path": "/products/025-1.webp",
+        "alt": "«Балык копчёная»",
+        "position": 1,
+        "legacyFile": "Balyk_kopchenaya_1.jpg"
+      },
+      {
+        "path": "/products/025-2.webp",
+        "alt": "«Балык копчёная»",
+        "position": 2,
+        "legacyFile": "Balyk_kopchenaya_2.jpg"
+      },
+      {
+        "path": "/products/025-3.webp",
+        "alt": "«Балык копчёная»",
+        "position": 3,
+        "legacyFile": "Balyk_kopchenaya_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-026",
+    "name": "Дор Блю",
+    "price": 1250,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 26,
+    "images": [
+      {
+        "path": "/products/026-1.webp",
+        "alt": "Дор Блю",
+        "position": 1,
+        "legacyFile": "Dor_Blyu_1.jpg"
+      },
+      {
+        "path": "/products/026-2.webp",
+        "alt": "Дор Блю",
+        "position": 2,
+        "legacyFile": "Dor_Blyu_2.jpg"
+      },
+      {
+        "path": "/products/026-3.webp",
+        "alt": "Дор Блю",
+        "position": 3,
+        "legacyFile": "Dor_Blyu_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-027",
+    "name": "Сыр Голландский «Любань»",
+    "price": 560,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 27,
+    "images": []
+  },
+  {
+    "id": "legacy-028",
+    "name": "Сыр «Пармезан Де Люкс» (круг) (Здравушка Милк)",
+    "price": 795,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 28,
+    "images": []
+  },
+  {
+    "id": "legacy-029",
+    "name": "Пармезан «Юговской КМП»",
+    "price": 650,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 29,
+    "images": []
+  },
+  {
+    "id": "legacy-030",
+    "name": "Пармезан четвертинка «Юговской КМП»",
+    "price": 650,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 30,
+    "images": []
+  },
+  {
+    "id": "legacy-031",
+    "name": "Сыр «Грювер» (Здравушка Милк)",
+    "price": 715,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 31,
+    "images": [
+      {
+        "path": "/products/031-1.webp",
+        "alt": "Сыр «Грювер» (Здравушка Милк)",
+        "position": 1,
+        "legacyFile": "Syr_Gryuver_Zdravushka_Milk_1.jpg"
+      },
+      {
+        "path": "/products/031-2.webp",
+        "alt": "Сыр «Грювер» (Здравушка Милк)",
+        "position": 2,
+        "legacyFile": "Syr_Gryuver_Zdravushka_Milk_2.jpg"
+      },
+      {
+        "path": "/products/031-3.webp",
+        "alt": "Сыр «Грювер» (Здравушка Милк)",
+        "position": 3,
+        "legacyFile": "Syr_Gryuver_Zdravushka_Milk_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-032",
+    "name": "Сыр «Знатный» (Здравушка Милк)",
+    "price": 715,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 32,
+    "images": [
+      {
+        "path": "/products/032-1.webp",
+        "alt": "Сыр «Знатный» (Здравушка Милк)",
+        "position": 1,
+        "legacyFile": "Syr_Znatnyy_Zdravushka_Milk_1.jpg"
+      },
+      {
+        "path": "/products/032-2.webp",
+        "alt": "Сыр «Знатный» (Здравушка Милк)",
+        "position": 2,
+        "legacyFile": "Syr_Znatnyy_Zdravushka_Milk_2.jpg"
+      },
+      {
+        "path": "/products/032-3.webp",
+        "alt": "Сыр «Знатный» (Здравушка Милк)",
+        "position": 3,
+        "legacyFile": "Syr_Znatnyy_Zdravushka_Milk_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-033",
+    "name": "Сыр Овечий «Ширак»",
+    "price": 800,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 33,
+    "images": [
+      {
+        "path": "/products/033-1.webp",
+        "alt": "Сыр Овечий «Ширак»",
+        "position": 1,
+        "legacyFile": "Syr_Ovechiy_Shirak_1.jpg"
+      },
+      {
+        "path": "/products/033-2.webp",
+        "alt": "Сыр Овечий «Ширак»",
+        "position": 2,
+        "legacyFile": "Syr_Ovechiy_Shirak_2.jpg"
+      },
+      {
+        "path": "/products/033-3.webp",
+        "alt": "Сыр Овечий «Ширак»",
+        "position": 3,
+        "legacyFile": "Syr_Ovechiy_Shirak_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-034",
+    "name": "Сыр «Ларец» классический",
+    "price": 610,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 34,
+    "images": [
+      {
+        "path": "/products/034-1.webp",
+        "alt": "Сыр «Ларец» классический",
+        "position": 1,
+        "legacyFile": "Syr_Larets_klassicheskiy_1.jpg"
+      },
+      {
+        "path": "/products/034-2.webp",
+        "alt": "Сыр «Ларец» классический",
+        "position": 2,
+        "legacyFile": "Syr_Larets_klassicheskiy_2.jpg"
+      },
+      {
+        "path": "/products/034-3.webp",
+        "alt": "Сыр «Ларец» классический",
+        "position": 3,
+        "legacyFile": "Syr_Larets_klassicheskiy_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-035",
+    "name": "Сыр «Черный Принц» куб (Кобрин)",
+    "price": 755,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 35,
+    "images": [
+      {
+        "path": "/products/035-1.webp",
+        "alt": "Сыр «Черный Принц» куб (Кобрин)",
+        "position": 1,
+        "legacyFile": "Syr_Chernyy_Prints_kub_Kobrin_1.jpg"
+      },
+      {
+        "path": "/products/035-2.webp",
+        "alt": "Сыр «Черный Принц» куб (Кобрин)",
+        "position": 2,
+        "legacyFile": "Syr_Chernyy_Prints_kub_Kobrin_2.jpg"
+      },
+      {
+        "path": "/products/035-3.webp",
+        "alt": "Сыр «Черный Принц» куб (Кобрин)",
+        "position": 3,
+        "legacyFile": "Syr_Chernyy_Prints_kub_Kobrin_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-036",
+    "name": "Сыр «Тильзитер» Кобрин",
+    "price": 735,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 36,
+    "images": [
+      {
+        "path": "/products/036-1.webp",
+        "alt": "Сыр «Тильзитер» Кобрин",
+        "position": 1,
+        "legacyFile": "Syr_Tilziter_Kobrin_1.jpg"
+      },
+      {
+        "path": "/products/036-2.webp",
+        "alt": "Сыр «Тильзитер» Кобрин",
+        "position": 2,
+        "legacyFile": "Syr_Tilziter_Kobrin_2.jpg"
+      },
+      {
+        "path": "/products/036-3.webp",
+        "alt": "Сыр «Тильзитер» Кобрин",
+        "position": 3,
+        "legacyFile": "Syr_Tilziter_Kobrin_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-037",
+    "name": "Сыр «Ларец» с греческими орехами",
+    "price": 630,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 37,
+    "images": [
+      {
+        "path": "/products/037-1.webp",
+        "alt": "Сыр «Ларец» с греческими орехами",
+        "position": 1,
+        "legacyFile": "Syr_Larets_s_grecheskimi_orekhami_1.jpg"
+      },
+      {
+        "path": "/products/037-2.webp",
+        "alt": "Сыр «Ларец» с греческими орехами",
+        "position": 2,
+        "legacyFile": "Syr_Larets_s_grecheskimi_orekhami_2.jpg"
+      },
+      {
+        "path": "/products/037-3.webp",
+        "alt": "Сыр «Ларец» с греческими орехами",
+        "position": 3,
+        "legacyFile": "Syr_Larets_s_grecheskimi_orekhami_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-038",
+    "name": "Сыр «Аристократ» брус",
+    "price": 650,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 38,
+    "images": []
+  },
+  {
+    "id": "legacy-039",
+    "name": "Сыр «Аристократ» куб",
+    "price": 655,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 39,
+    "images": []
+  },
+  {
+    "id": "legacy-040",
+    "name": "Сыр «Аристократ» с греческими орехами «Белослава»",
+    "price": 680,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 40,
+    "images": [
+      {
+        "path": "/products/040-1.webp",
+        "alt": "Сыр «Аристократ» с греческими орехами «Белослава»",
+        "position": 1,
+        "legacyFile": "Syr_Aristokrat_s_grecheskimi_orekhami_Beloslava_1.jpg"
+      },
+      {
+        "path": "/products/040-2.webp",
+        "alt": "Сыр «Аристократ» с греческими орехами «Белослава»",
+        "position": 2,
+        "legacyFile": "Syr_Aristokrat_s_grecheskimi_orekhami_Beloslava_2.jpg"
+      },
+      {
+        "path": "/products/040-3.webp",
+        "alt": "Сыр «Аристократ» с греческими орехами «Белослава»",
+        "position": 3,
+        "legacyFile": "Syr_Aristokrat_s_grecheskimi_orekhami_Beloslava_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-041",
+    "name": "Сыр «Мегард»",
+    "price": 710,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 41,
+    "images": [
+      {
+        "path": "/products/041-1.webp",
+        "alt": "Сыр «Мегард»",
+        "position": 1,
+        "legacyFile": "Syr_Megard_1.jpg"
+      },
+      {
+        "path": "/products/041-2.webp",
+        "alt": "Сыр «Мегард»",
+        "position": 2,
+        "legacyFile": "Syr_Megard_2.jpg"
+      },
+      {
+        "path": "/products/041-3.webp",
+        "alt": "Сыр «Мегард»",
+        "position": 3,
+        "legacyFile": "Syr_Megard_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-042",
+    "name": "Сыр «Монблан Снежная Вершина» (Кобрин)",
+    "price": 920,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 42,
+    "images": []
+  },
+  {
+    "id": "legacy-043",
+    "name": "Сыр «Монблан Старый Утёс»",
+    "price": 880,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 43,
+    "images": []
+  },
+  {
+    "id": "legacy-044",
+    "name": "Сыр «Арамель» с пажетником 50% (Кобрин)",
+    "price": 767,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 44,
+    "images": []
+  },
+  {
+    "id": "legacy-045",
+    "name": "Сыр «Бургомистр» 50% куб Кобрин",
+    "price": 880,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 45,
+    "images": [
+      {
+        "path": "/products/045-1.webp",
+        "alt": "Сыр «Бургомистр» 50% куб Кобрин",
+        "position": 1,
+        "legacyFile": "Syr_Burgomistr_50_kub_Kobrin_1.jpg"
+      },
+      {
+        "path": "/products/045-2.webp",
+        "alt": "Сыр «Бургомистр» 50% куб Кобрин",
+        "position": 2,
+        "legacyFile": "Syr_Burgomistr_50_kub_Kobrin_2.jpg"
+      },
+      {
+        "path": "/products/045-3.webp",
+        "alt": "Сыр «Бургомистр» 50% куб Кобрин",
+        "position": 3,
+        "legacyFile": "Syr_Burgomistr_50_kub_Kobrin_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-046",
+    "name": "Сыр «Пан Кобринъ» с ароматом топлёного молока (куб) (Кобрин)",
+    "price": 760,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 46,
+    "images": [
+      {
+        "path": "/products/046-1.webp",
+        "alt": "Сыр «Пан Кобринъ» с ароматом топлёного молока (куб) (Кобрин)",
+        "position": 1,
+        "legacyFile": "Syr_Pan_Kobrin_s_aromatom_toplenogo_moloka_kub_Kobrin_1.jpg"
+      },
+      {
+        "path": "/products/046-2.webp",
+        "alt": "Сыр «Пан Кобринъ» с ароматом топлёного молока (куб) (Кобрин)",
+        "position": 2,
+        "legacyFile": "Syr_Pan_Kobrin_s_aromatom_toplenogo_moloka_kub_Kobrin_2.jpg"
+      },
+      {
+        "path": "/products/046-3.webp",
+        "alt": "Сыр «Пан Кобринъ» с ароматом топлёного молока (куб) (Кобрин)",
+        "position": 3,
+        "legacyFile": "Syr_Pan_Kobrin_s_aromatom_toplenogo_moloka_kub_Kobrin_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-047",
+    "name": "Сыр «Российский» фирменный 50% (Кобрин)",
+    "price": 620,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 47,
+    "images": [
+      {
+        "path": "/products/047-1.webp",
+        "alt": "Сыр «Российский» фирменный 50% (Кобрин)",
+        "position": 1,
+        "legacyFile": "Syr_Rossiyskiy_firmennyy_50_Kobrin_1.jpg"
+      },
+      {
+        "path": "/products/047-2.webp",
+        "alt": "Сыр «Российский» фирменный 50% (Кобрин)",
+        "position": 2,
+        "legacyFile": "Syr_Rossiyskiy_firmennyy_50_Kobrin_2.jpg"
+      },
+      {
+        "path": "/products/047-3.webp",
+        "alt": "Сыр «Российский» фирменный 50% (Кобрин)",
+        "position": 3,
+        "legacyFile": "Syr_Rossiyskiy_firmennyy_50_Kobrin_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-048",
+    "name": "Сыр «Никольский» с ароматом сливок (куб) (Кобрин)",
+    "price": 750,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 48,
+    "images": [
+      {
+        "path": "/products/048-1.webp",
+        "alt": "Сыр «Никольский» с ароматом сливок (куб) (Кобрин)",
+        "position": 1,
+        "legacyFile": "Syr_Nikolskiy_s_aromatom_slivok_kub_Kobrin_1.jpg"
+      },
+      {
+        "path": "/products/048-2.webp",
+        "alt": "Сыр «Никольский» с ароматом сливок (куб) (Кобрин)",
+        "position": 2,
+        "legacyFile": "Syr_Nikolskiy_s_aromatom_slivok_kub_Kobrin_2.jpg"
+      },
+      {
+        "path": "/products/048-3.webp",
+        "alt": "Сыр «Никольский» с ароматом сливок (куб) (Кобрин)",
+        "position": 3,
+        "legacyFile": "Syr_Nikolskiy_s_aromatom_slivok_kub_Kobrin_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-049",
+    "name": "Сыр «Сыронежный ГРАФ» (Белослава) куб",
+    "price": 645,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 49,
+    "images": [
+      {
+        "path": "/products/049-1.webp",
+        "alt": "Сыр «Сыронежный ГРАФ» (Белослава) куб",
+        "position": 1,
+        "legacyFile": "Syr_Syronezhnyy_GRAF_Beloslava_kub_1.jpg"
+      },
+      {
+        "path": "/products/049-2.webp",
+        "alt": "Сыр «Сыронежный ГРАФ» (Белослава) куб",
+        "position": 2,
+        "legacyFile": "Syr_Syronezhnyy_GRAF_Beloslava_kub_2.jpg"
+      },
+      {
+        "path": "/products/049-3.webp",
+        "alt": "Сыр «Сыронежный ГРАФ» (Белослава) куб",
+        "position": 3,
+        "legacyFile": "Syr_Syronezhnyy_GRAF_Beloslava_kub_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-050",
+    "name": "Сыр «Сыронежный ГРАФ» (Белослава) брус",
+    "price": 640,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 50,
+    "images": []
+  },
+  {
+    "id": "legacy-051",
+    "name": "Сыр Ламбер (шар)",
+    "price": 800,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 51,
+    "images": [
+      {
+        "path": "/products/051-1.webp",
+        "alt": "Сыр Ламбер (шар)",
+        "position": 1,
+        "legacyFile": "Syr_Lamber_shar_1.jpg"
+      },
+      {
+        "path": "/products/051-2.webp",
+        "alt": "Сыр Ламбер (шар)",
+        "position": 2,
+        "legacyFile": "Syr_Lamber_shar_2.jpg"
+      },
+      {
+        "path": "/products/051-3.webp",
+        "alt": "Сыр Ламбер (шар)",
+        "position": 3,
+        "legacyFile": "Syr_Lamber_shar_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-052",
+    "name": "Сыр «Амстердам»",
+    "price": 715,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 52,
+    "images": [
+      {
+        "path": "/products/052-1.webp",
+        "alt": "Сыр «Амстердам»",
+        "position": 1,
+        "legacyFile": "Syr_Amsterdam_1.jpg"
+      },
+      {
+        "path": "/products/052-2.webp",
+        "alt": "Сыр «Амстердам»",
+        "position": 2,
+        "legacyFile": "Syr_Amsterdam_2.jpg"
+      },
+      {
+        "path": "/products/052-3.webp",
+        "alt": "Сыр «Амстердам»",
+        "position": 3,
+        "legacyFile": "Syr_Amsterdam_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-053",
+    "name": "Сыр «Бофор»",
+    "price": 1100,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 53,
+    "images": [
+      {
+        "path": "/products/053-1.webp",
+        "alt": "Сыр «Бофор»",
+        "position": 1,
+        "legacyFile": "Syr_Bofor_1.jpg"
+      },
+      {
+        "path": "/products/053-2.webp",
+        "alt": "Сыр «Бофор»",
+        "position": 2,
+        "legacyFile": "Syr_Bofor_2.jpg"
+      },
+      {
+        "path": "/products/053-3.webp",
+        "alt": "Сыр «Бофор»",
+        "position": 3,
+        "legacyFile": "Syr_Bofor_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-054",
+    "name": "Сыр «Вохма Малыш»",
+    "price": 710,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 54,
+    "images": [
+      {
+        "path": "/products/054-1.webp",
+        "alt": "Сыр «Вохма Малыш»",
+        "position": 1,
+        "legacyFile": "Syr_Vokhma_Malysh_1.jpg"
+      },
+      {
+        "path": "/products/054-2.webp",
+        "alt": "Сыр «Вохма Малыш»",
+        "position": 2,
+        "legacyFile": "Syr_Vokhma_Malysh_2.jpg"
+      },
+      {
+        "path": "/products/054-3.webp",
+        "alt": "Сыр «Вохма Малыш»",
+        "position": 3,
+        "legacyFile": "Syr_Vokhma_Malysh_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-055",
+    "name": "Сыр «Вохма Малыш» с грецким орехом",
+    "price": 745,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 55,
+    "images": [
+      {
+        "path": "/products/055-1.webp",
+        "alt": "Сыр «Вохма Малыш» с грецким орехом",
+        "position": 1,
+        "legacyFile": "Syr_Vokhma_Malysh_s_gretskim_orekhom_1.jpg"
+      },
+      {
+        "path": "/products/055-2.webp",
+        "alt": "Сыр «Вохма Малыш» с грецким орехом",
+        "position": 2,
+        "legacyFile": "Syr_Vokhma_Malysh_s_gretskim_orekhom_2.jpg"
+      },
+      {
+        "path": "/products/055-3.webp",
+        "alt": "Сыр «Вохма Малыш» с грецким орехом",
+        "position": 3,
+        "legacyFile": "Syr_Vokhma_Malysh_s_gretskim_orekhom_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-056",
+    "name": "Сыр «Вохма Малыш» с пажитником",
+    "price": 745,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 56,
+    "images": [
+      {
+        "path": "/products/056-1.webp",
+        "alt": "Сыр «Вохма Малыш» с пажитником",
+        "position": 1,
+        "legacyFile": "Syr_Vokhma_Malysh_s_pazhitnikom_1.jpg"
+      },
+      {
+        "path": "/products/056-2.webp",
+        "alt": "Сыр «Вохма Малыш» с пажитником",
+        "position": 2,
+        "legacyFile": "Syr_Vokhma_Malysh_s_pazhitnikom_2.jpg"
+      },
+      {
+        "path": "/products/056-3.webp",
+        "alt": "Сыр «Вохма Малыш» с пажитником",
+        "position": 3,
+        "legacyFile": "Syr_Vokhma_Malysh_s_pazhitnikom_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-057",
+    "name": "Сыр «Золотое кольцо»",
+    "price": 715,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 57,
+    "images": []
+  },
+  {
+    "id": "legacy-058",
+    "name": "Сыр «Раклет»",
+    "price": 1130,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 58,
+    "images": [
+      {
+        "path": "/products/058-1.webp",
+        "alt": "Сыр «Раклет»",
+        "position": 1,
+        "legacyFile": "Syr_Raklet_1.jpg"
+      },
+      {
+        "path": "/products/058-2.webp",
+        "alt": "Сыр «Раклет»",
+        "position": 2,
+        "legacyFile": "Syr_Raklet_2.jpg"
+      },
+      {
+        "path": "/products/058-3.webp",
+        "alt": "Сыр «Раклет»",
+        "position": 3,
+        "legacyFile": "Syr_Raklet_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-059",
+    "name": "Сыр «Романовъ»",
+    "price": 960,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 59,
+    "images": [
+      {
+        "path": "/products/059-1.webp",
+        "alt": "Сыр «Романовъ»",
+        "position": 1,
+        "legacyFile": "Syr_Romanov_1.jpg"
+      },
+      {
+        "path": "/products/059-2.webp",
+        "alt": "Сыр «Романовъ»",
+        "position": 2,
+        "legacyFile": "Syr_Romanov_2.jpg"
+      },
+      {
+        "path": "/products/059-3.webp",
+        "alt": "Сыр «Романовъ»",
+        "position": 3,
+        "legacyFile": "Syr_Romanov_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-060",
+    "name": "Сыр «Старая Кострома»",
+    "price": 1030,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 60,
+    "images": []
+  },
+  {
+    "id": "legacy-061",
+    "name": "Сыр «Тет де Муан»",
+    "price": 1400,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 61,
+    "images": []
+  },
+  {
+    "id": "legacy-062",
+    "name": "Сыр «Трюфель»",
+    "price": 1160,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 62,
+    "images": [
+      {
+        "path": "/products/062-1.webp",
+        "alt": "Сыр «Трюфель»",
+        "position": 1,
+        "legacyFile": "Syr_Tryufel_1.jpg"
+      },
+      {
+        "path": "/products/062-2.webp",
+        "alt": "Сыр «Трюфель»",
+        "position": 2,
+        "legacyFile": "Syr_Tryufel_2.jpg"
+      },
+      {
+        "path": "/products/062-3.webp",
+        "alt": "Сыр «Трюфель»",
+        "position": 3,
+        "legacyFile": "Syr_Tryufel_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-063",
+    "name": "Сыр «Сулугуни Стародуб»",
+    "price": 540,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 63,
+    "images": [
+      {
+        "path": "/products/063-1.webp",
+        "alt": "Сыр «Сулугуни Стародуб»",
+        "position": 1,
+        "legacyFile": "Syr_Suluguni_Starodub_1.jpg"
+      },
+      {
+        "path": "/products/063-2.webp",
+        "alt": "Сыр «Сулугуни Стародуб»",
+        "position": 2,
+        "legacyFile": "Syr_Suluguni_Starodub_2.jpg"
+      },
+      {
+        "path": "/products/063-3.webp",
+        "alt": "Сыр «Сулугуни Стародуб»",
+        "position": 3,
+        "legacyFile": "Syr_Suluguni_Starodub_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-064",
+    "name": "Сыр «Белорусское Золото»",
+    "price": 520,
+    "oldPrice": 500,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "price_up",
+    "published": true,
+    "sortOrder": 64,
+    "images": [
+      {
+        "path": "/products/064-1.webp",
+        "alt": "Сыр «Белорусское Золото»",
+        "position": 1,
+        "legacyFile": "Syr_Belorusskoe_Zoloto_1.jpg"
+      },
+      {
+        "path": "/products/064-2.webp",
+        "alt": "Сыр «Белорусское Золото»",
+        "position": 2,
+        "legacyFile": "Syr_Belorusskoe_Zoloto_2.jpg"
+      },
+      {
+        "path": "/products/064-3.webp",
+        "alt": "Сыр «Белорусское Золото»",
+        "position": 3,
+        "legacyFile": "Syr_Belorusskoe_Zoloto_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-065",
+    "name": "Сыр \"Гауда\" (Ичалки)",
+    "price": 530,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 65,
+    "images": [
+      {
+        "path": "/products/065-1.webp",
+        "alt": "Сыр \"Гауда\" (Ичалки)",
+        "position": 1,
+        "legacyFile": "Syr_Gauda_Ichalki_1.jpg"
+      },
+      {
+        "path": "/products/065-2.webp",
+        "alt": "Сыр \"Гауда\" (Ичалки)",
+        "position": 2,
+        "legacyFile": "Syr_Gauda_Ichalki_2.jpg"
+      },
+      {
+        "path": "/products/065-3.webp",
+        "alt": "Сыр \"Гауда\" (Ичалки)",
+        "position": 3,
+        "legacyFile": "Syr_Gauda_Ichalki_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-066",
+    "name": "Сыр \"Золотая Гауда\" (Ичалки)",
+    "price": 670,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 66,
+    "images": []
+  },
+  {
+    "id": "legacy-067",
+    "name": "Сыр \"Диетический\" (Ичалки)",
+    "price": 530,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 67,
+    "images": [
+      {
+        "path": "/products/067-1.webp",
+        "alt": "Сыр \"Диетический\" (Ичалки)",
+        "position": 1,
+        "legacyFile": "Syr_Dieticheskiy_Ichalki_1.jpg"
+      },
+      {
+        "path": "/products/067-2.webp",
+        "alt": "Сыр \"Диетический\" (Ичалки)",
+        "position": 2,
+        "legacyFile": "Syr_Dieticheskiy_Ichalki_2.jpg"
+      },
+      {
+        "path": "/products/067-3.webp",
+        "alt": "Сыр \"Диетический\" (Ичалки)",
+        "position": 3,
+        "legacyFile": "Syr_Dieticheskiy_Ichalki_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-068",
+    "name": "Сыр \"Маасдам\" (Ичалки)",
+    "price": 685,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 68,
+    "images": [
+      {
+        "path": "/products/068-1.webp",
+        "alt": "Сыр \"Маасдам\" (Ичалки)",
+        "position": 1,
+        "legacyFile": "Syr_Maasdam_Ichalki_1.jpg"
+      },
+      {
+        "path": "/products/068-2.webp",
+        "alt": "Сыр \"Маасдам\" (Ичалки)",
+        "position": 2,
+        "legacyFile": "Syr_Maasdam_Ichalki_2.jpg"
+      },
+      {
+        "path": "/products/068-3.webp",
+        "alt": "Сыр \"Маасдам\" (Ичалки)",
+        "position": 3,
+        "legacyFile": "Syr_Maasdam_Ichalki_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-069",
+    "name": "Сыр \"Манчего\" (Ичалки)",
+    "price": 595,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 69,
+    "images": [
+      {
+        "path": "/products/069-1.webp",
+        "alt": "Сыр \"Манчего\" (Ичалки)",
+        "position": 1,
+        "legacyFile": "Syr_Manchego_Ichalki_1.jpg"
+      },
+      {
+        "path": "/products/069-2.webp",
+        "alt": "Сыр \"Манчего\" (Ичалки)",
+        "position": 2,
+        "legacyFile": "Syr_Manchego_Ichalki_2.jpg"
+      },
+      {
+        "path": "/products/069-3.webp",
+        "alt": "Сыр \"Манчего\" (Ичалки)",
+        "position": 3,
+        "legacyFile": "Syr_Manchego_Ichalki_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-070",
+    "name": "Сыр \"Мраморный\" (Ичалки)",
+    "price": 530,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 70,
+    "images": [
+      {
+        "path": "/products/070-1.webp",
+        "alt": "Сыр \"Мраморный\" (Ичалки)",
+        "position": 1,
+        "legacyFile": "Syr_Mramornyy_Ichalki_1.jpg"
+      },
+      {
+        "path": "/products/070-2.webp",
+        "alt": "Сыр \"Мраморный\" (Ичалки)",
+        "position": 2,
+        "legacyFile": "Syr_Mramornyy_Ichalki_2.jpg"
+      },
+      {
+        "path": "/products/070-3.webp",
+        "alt": "Сыр \"Мраморный\" (Ичалки)",
+        "position": 3,
+        "legacyFile": "Syr_Mramornyy_Ichalki_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-071",
+    "name": "Сыр \"Российский Экстра\" (Ичалки)",
+    "price": 530,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 71,
+    "images": []
+  },
+  {
+    "id": "legacy-072",
+    "name": "Сыр \"Императорский\" (Ичалки)",
+    "price": 630,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 72,
+    "images": []
+  },
+  {
+    "id": "legacy-073",
+    "name": "Сыр «Аристократ с грецким орехом» кубик (Белослава)",
+    "price": null,
+    "oldPrice": null,
+    "unit": null,
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 73,
+    "images": []
+  },
+  {
+    "id": "legacy-074",
+    "name": "Сыр Маасдам (Белослава)",
+    "price": null,
+    "oldPrice": null,
+    "unit": null,
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 74,
+    "images": []
+  },
+  {
+    "id": "legacy-075",
+    "name": "Пармезан де люкс (Белослава)",
+    "price": null,
+    "oldPrice": null,
+    "unit": null,
+    "category": "syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 75,
+    "images": []
+  },
+  {
+    "id": "legacy-076",
+    "name": "Творожная масса (вишня + шоколад) ведро 3 кг",
+    "price": 550,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnaya_massa",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 76,
+    "images": []
+  },
+  {
+    "id": "legacy-077",
+    "name": "Творожная масса (вишня) ведро 3 кг",
+    "price": 550,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnaya_massa",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 77,
+    "images": []
+  },
+  {
+    "id": "legacy-078",
+    "name": "Творожная масса (изюм) ведро 3 кг",
+    "price": 550,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnaya_massa",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 78,
+    "images": [
+      {
+        "path": "/products/078-1.webp",
+        "alt": "Творожная масса (изюм) ведро 3 кг",
+        "position": 1,
+        "legacyFile": "Tvorozhnaya_massa_izyum_vedro_3_kg_1.jpg"
+      },
+      {
+        "path": "/products/078-2.webp",
+        "alt": "Творожная масса (изюм) ведро 3 кг",
+        "position": 2,
+        "legacyFile": "Tvorozhnaya_massa_izyum_vedro_3_kg_2.jpg"
+      },
+      {
+        "path": "/products/078-3.webp",
+        "alt": "Творожная масса (изюм) ведро 3 кг",
+        "position": 3,
+        "legacyFile": "Tvorozhnaya_massa_izyum_vedro_3_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-079",
+    "name": "Творожная масса (курага) ведро 3 кг",
+    "price": 550,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnaya_massa",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 79,
+    "images": []
+  },
+  {
+    "id": "legacy-080",
+    "name": "Творожная масса (шоколад) ведро 3 кг",
+    "price": 550,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "tvorozhnaya_massa",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 80,
+    "images": []
+  },
+  {
+    "id": "legacy-081",
+    "name": "Голландский оригинальный «Юговской КМП»",
+    "price": 330,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 81,
+    "images": []
+  },
+  {
+    "id": "legacy-082",
+    "name": "Тильзитер «Юговской КМП»",
+    "price": 330,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 82,
+    "images": []
+  },
+  {
+    "id": "legacy-083",
+    "name": "Российский круг «Юговской КМП»",
+    "price": 330,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 83,
+    "images": []
+  },
+  {
+    "id": "legacy-084",
+    "name": "Сырный продукт с топлёным молоком 50% «Злтака»",
+    "price": 370,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 84,
+    "images": []
+  },
+  {
+    "id": "legacy-085",
+    "name": "Сырный продукт Сметанковый «Ладушка»",
+    "price": 445,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 85,
+    "images": [
+      {
+        "path": "/products/085-1.webp",
+        "alt": "Сырный продукт Сметанковый «Ладушка»",
+        "position": 1,
+        "legacyFile": "Syrnyy_produkt_Smetankovyy_Ladushka_1.jpg"
+      },
+      {
+        "path": "/products/085-2.webp",
+        "alt": "Сырный продукт Сметанковый «Ладушка»",
+        "position": 2,
+        "legacyFile": "Syrnyy_produkt_Smetankovyy_Ladushka_2.jpg"
+      },
+      {
+        "path": "/products/085-3.webp",
+        "alt": "Сырный продукт Сметанковый «Ладушка»",
+        "position": 3,
+        "legacyFile": "Syrnyy_produkt_Smetankovyy_Ladushka_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-086",
+    "name": "Сырный продукт Сливочный «Ладушка»",
+    "price": 445,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 86,
+    "images": [
+      {
+        "path": "/products/086-1.webp",
+        "alt": "Сырный продукт Сливочный «Ладушка»",
+        "position": 1,
+        "legacyFile": "Syrnyy_produkt_Slivochnyy_Ladushka_1.jpg"
+      },
+      {
+        "path": "/products/086-2.webp",
+        "alt": "Сырный продукт Сливочный «Ладушка»",
+        "position": 2,
+        "legacyFile": "Syrnyy_produkt_Slivochnyy_Ladushka_2.jpg"
+      },
+      {
+        "path": "/products/086-3.webp",
+        "alt": "Сырный продукт Сливочный «Ладушка»",
+        "position": 3,
+        "legacyFile": "Syrnyy_produkt_Slivochnyy_Ladushka_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-087",
+    "name": "Сырный продукт Российский «Ладушка»",
+    "price": 445,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 87,
+    "images": []
+  },
+  {
+    "id": "legacy-088",
+    "name": "Адыгейский домашний",
+    "price": 300,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "syrny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 88,
+    "images": []
+  },
+  {
+    "id": "legacy-089",
+    "name": "Моцарелла оригинал Мультипро (Алти)",
+    "price": 430,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "plavleny_syr",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 89,
+    "images": []
+  },
+  {
+    "id": "legacy-090",
+    "name": "Моцарелла Экстра Мультипро (Алти)",
+    "price": 350,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "plavleny_syr",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 90,
+    "images": [
+      {
+        "path": "/products/090-1.webp",
+        "alt": "Моцарелла Экстра Мультипро (Алти)",
+        "position": 1,
+        "legacyFile": "Motsarella_Ekstra_Multipro_Alti_1.jpg"
+      },
+      {
+        "path": "/products/090-2.webp",
+        "alt": "Моцарелла Экстра Мультипро (Алти)",
+        "position": 2,
+        "legacyFile": "Motsarella_Ekstra_Multipro_Alti_2.jpg"
+      },
+      {
+        "path": "/products/090-3.webp",
+        "alt": "Моцарелла Экстра Мультипро (Алти)",
+        "position": 3,
+        "legacyFile": "Motsarella_Ekstra_Multipro_Alti_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-091",
+    "name": "Моцарелла «Юговской КМП»",
+    "price": 330,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "plavleny_syr",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 91,
+    "images": [
+      {
+        "path": "/products/091-1.webp",
+        "alt": "Моцарелла «Юговской КМП»",
+        "position": 1,
+        "legacyFile": "Motsarella_Yugovskoy_KMP_1.jpg"
+      },
+      {
+        "path": "/products/091-2.webp",
+        "alt": "Моцарелла «Юговской КМП»",
+        "position": 2,
+        "legacyFile": "Motsarella_Yugovskoy_KMP_2.jpg"
+      },
+      {
+        "path": "/products/091-3.webp",
+        "alt": "Моцарелла «Юговской КМП»",
+        "position": 3,
+        "legacyFile": "Motsarella_Yugovskoy_KMP_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-092",
+    "name": "Сыр Моцарелла Пицца «Турвский МК»",
+    "price": 630,
+    "oldPrice": 580,
+    "unit": "шт",
+    "category": "plavleny_syr",
+    "availability": "in_stock",
+    "badge": "price_up",
+    "published": true,
+    "sortOrder": 92,
+    "images": [
+      {
+        "path": "/products/092-1.webp",
+        "alt": "Сыр Моцарелла Пицца «Турвский МК»",
+        "position": 1,
+        "legacyFile": "Syr_Motsarella_Pitstsa_Turvskiy_MK_1.jpg"
+      },
+      {
+        "path": "/products/092-2.webp",
+        "alt": "Сыр Моцарелла Пицца «Турвский МК»",
+        "position": 2,
+        "legacyFile": "Syr_Motsarella_Pitstsa_Turvskiy_MK_2.jpg"
+      },
+      {
+        "path": "/products/092-3.webp",
+        "alt": "Сыр Моцарелла Пицца «Турвский МК»",
+        "position": 3,
+        "legacyFile": "Syr_Motsarella_Pitstsa_Turvskiy_MK_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-093",
+    "name": "Сыр «Hochland» плавленый ломтевой «Бистро Чеддер»",
+    "price": 810,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "plavleny_syr",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 93,
+    "images": [
+      {
+        "path": "/products/093-1.webp",
+        "alt": "Сыр «Hochland» плавленый ломтевой «Бистро Чеддер»",
+        "position": 1,
+        "legacyFile": "Syr_Hochland_plavlenyy_lomtevoy_Bistro_Chedder_1.jpg"
+      },
+      {
+        "path": "/products/093-2.webp",
+        "alt": "Сыр «Hochland» плавленый ломтевой «Бистро Чеддер»",
+        "position": 2,
+        "legacyFile": "Syr_Hochland_plavlenyy_lomtevoy_Bistro_Chedder_2.jpg"
+      },
+      {
+        "path": "/products/093-3.webp",
+        "alt": "Сыр «Hochland» плавленый ломтевой «Бистро Чеддер»",
+        "position": 3,
+        "legacyFile": "Syr_Hochland_plavlenyy_lomtevoy_Bistro_Chedder_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-094",
+    "name": "YEREMYAN Сыр ЧАНАХ 400 г",
+    "price": 320,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "yeremyan",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 94,
+    "images": []
+  },
+  {
+    "id": "legacy-095",
+    "name": "YEREMYAN Сыр ЛОРИ 400 г",
+    "price": 330,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "yeremyan",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 95,
+    "images": []
+  },
+  {
+    "id": "legacy-096",
+    "name": "YEREMYAN Чанах весовой",
+    "price": 620,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "yeremyan",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 96,
+    "images": []
+  },
+  {
+    "id": "legacy-097",
+    "name": "Болгарская Брынза 1,5 кг",
+    "price": 800,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 97,
+    "images": []
+  },
+  {
+    "id": "legacy-098",
+    "name": "Болгарская Брынза 2,5 кг",
+    "price": 1350,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 98,
+    "images": []
+  },
+  {
+    "id": "legacy-099",
+    "name": "Сулугуни ведро 5 кг",
+    "price": 1650,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 99,
+    "images": []
+  },
+  {
+    "id": "legacy-100",
+    "name": "Сулугуни 1 кг",
+    "price": 500,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 100,
+    "images": []
+  },
+  {
+    "id": "legacy-101",
+    "name": "Болгарская Брынза вакуумная НАК уп. 250 г",
+    "price": 140,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 101,
+    "images": [
+      {
+        "path": "/products/101-1.webp",
+        "alt": "Болгарская Брынза вакуумная НАК уп. 250 г",
+        "position": 1,
+        "legacyFile": "Bolgarskaya_Brynza_vakuumnaya_NAK_up_250_g_1.jpg"
+      },
+      {
+        "path": "/products/101-2.webp",
+        "alt": "Болгарская Брынза вакуумная НАК уп. 250 г",
+        "position": 2,
+        "legacyFile": "Bolgarskaya_Brynza_vakuumnaya_NAK_up_250_g_2.jpg"
+      },
+      {
+        "path": "/products/101-3.webp",
+        "alt": "Болгарская Брынза вакуумная НАК уп. 250 г",
+        "position": 3,
+        "legacyFile": "Bolgarskaya_Brynza_vakuumnaya_NAK_up_250_g_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-102",
+    "name": "Сыр Имеретинский ГОСТ",
+    "price": 350,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 102,
+    "images": []
+  },
+  {
+    "id": "legacy-103",
+    "name": "Сыр Имеретинский Ереван",
+    "price": 380,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 103,
+    "images": [
+      {
+        "path": "/products/103-1.webp",
+        "alt": "Сыр Имеретинский Ереван",
+        "position": 1,
+        "legacyFile": "Syr_Imeretinskiy_Erevan_1.jpg"
+      },
+      {
+        "path": "/products/103-2.webp",
+        "alt": "Сыр Имеретинский Ереван",
+        "position": 2,
+        "legacyFile": "Syr_Imeretinskiy_Erevan_2.jpg"
+      },
+      {
+        "path": "/products/103-3.webp",
+        "alt": "Сыр Имеретинский Ереван",
+        "position": 3,
+        "legacyFile": "Syr_Imeretinskiy_Erevan_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-104",
+    "name": "Чанах «Апаран» 0,7 кг",
+    "price": 275,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 104,
+    "images": [
+      {
+        "path": "/products/104-1.webp",
+        "alt": "Чанах «Апаран» 0,7 кг",
+        "position": 1,
+        "legacyFile": "Chanakh_Aparan_0_7_kg_1.jpg"
+      },
+      {
+        "path": "/products/104-2.webp",
+        "alt": "Чанах «Апаран» 0,7 кг",
+        "position": 2,
+        "legacyFile": "Chanakh_Aparan_0_7_kg_2.jpg"
+      },
+      {
+        "path": "/products/104-3.webp",
+        "alt": "Чанах «Апаран» 0,7 кг",
+        "position": 3,
+        "legacyFile": "Chanakh_Aparan_0_7_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-105",
+    "name": "Чанах «Апаран» 1,5 кг",
+    "price": 500,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 105,
+    "images": [
+      {
+        "path": "/products/105-1.webp",
+        "alt": "Чанах «Апаран» 1,5 кг",
+        "position": 1,
+        "legacyFile": "Chanakh_Aparan_1_5_kg_1.jpg"
+      },
+      {
+        "path": "/products/105-2.webp",
+        "alt": "Чанах «Апаран» 1,5 кг",
+        "position": 2,
+        "legacyFile": "Chanakh_Aparan_1_5_kg_2.jpg"
+      },
+      {
+        "path": "/products/105-3.webp",
+        "alt": "Чанах «Апаран» 1,5 кг",
+        "position": 3,
+        "legacyFile": "Chanakh_Aparan_1_5_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-106",
+    "name": "Чанах «Апаран» 2,5 кг",
+    "price": 780,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 106,
+    "images": [
+      {
+        "path": "/products/106-1.webp",
+        "alt": "Чанах «Апаран» 2,5 кг",
+        "position": 1,
+        "legacyFile": "Chanakh_Aparan_2_5_kg_1.jpg"
+      },
+      {
+        "path": "/products/106-2.webp",
+        "alt": "Чанах «Апаран» 2,5 кг",
+        "position": 2,
+        "legacyFile": "Chanakh_Aparan_2_5_kg_2.jpg"
+      },
+      {
+        "path": "/products/106-3.webp",
+        "alt": "Чанах «Апаран» 2,5 кг",
+        "position": 3,
+        "legacyFile": "Chanakh_Aparan_2_5_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-107",
+    "name": "Чанах «Ереван» 0,7 кг",
+    "price": 275,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 107,
+    "images": [
+      {
+        "path": "/products/107-1.webp",
+        "alt": "Чанах «Ереван» 0,7 кг",
+        "position": 1,
+        "legacyFile": "Chanakh_Erevan_0_7_kg_1.jpg"
+      },
+      {
+        "path": "/products/107-2.webp",
+        "alt": "Чанах «Ереван» 0,7 кг",
+        "position": 2,
+        "legacyFile": "Chanakh_Erevan_0_7_kg_2.jpg"
+      },
+      {
+        "path": "/products/107-3.webp",
+        "alt": "Чанах «Ереван» 0,7 кг",
+        "position": 3,
+        "legacyFile": "Chanakh_Erevan_0_7_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-108",
+    "name": "Чанах «Ереван» 1,5 кг",
+    "price": 500,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 108,
+    "images": [
+      {
+        "path": "/products/108-1.webp",
+        "alt": "Чанах «Ереван» 1,5 кг",
+        "position": 1,
+        "legacyFile": "Chanakh_Erevan_1_5_kg_1.jpg"
+      },
+      {
+        "path": "/products/108-2.webp",
+        "alt": "Чанах «Ереван» 1,5 кг",
+        "position": 2,
+        "legacyFile": "Chanakh_Erevan_1_5_kg_2.jpg"
+      },
+      {
+        "path": "/products/108-3.webp",
+        "alt": "Чанах «Ереван» 1,5 кг",
+        "position": 3,
+        "legacyFile": "Chanakh_Erevan_1_5_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-109",
+    "name": "Чанах «Ереван» 2,5 кг",
+    "price": 780,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 109,
+    "images": [
+      {
+        "path": "/products/109-1.webp",
+        "alt": "Чанах «Ереван» 2,5 кг",
+        "position": 1,
+        "legacyFile": "Chanakh_Erevan_2_5_kg_1.jpg"
+      },
+      {
+        "path": "/products/109-2.webp",
+        "alt": "Чанах «Ереван» 2,5 кг",
+        "position": 2,
+        "legacyFile": "Chanakh_Erevan_2_5_kg_2.jpg"
+      },
+      {
+        "path": "/products/109-3.webp",
+        "alt": "Чанах «Ереван» 2,5 кг",
+        "position": 3,
+        "legacyFile": "Chanakh_Erevan_2_5_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-110",
+    "name": "Чанах «Ширак» 0,6 кг",
+    "price": 245,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 110,
+    "images": []
+  },
+  {
+    "id": "legacy-111",
+    "name": "Чанах «Ширак» 2,5 кг",
+    "price": 840,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 111,
+    "images": []
+  },
+  {
+    "id": "legacy-112",
+    "name": "Фета 1,5 кг",
+    "price": 950,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 112,
+    "images": []
+  },
+  {
+    "id": "legacy-113",
+    "name": "Арменайк 0,4 кг",
+    "price": 280,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 113,
+    "images": []
+  },
+  {
+    "id": "legacy-114",
+    "name": "Арменайк 0,9 кг",
+    "price": 535,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 114,
+    "images": []
+  },
+  {
+    "id": "legacy-115",
+    "name": "Арменайк 1,7 кг",
+    "price": 920,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 115,
+    "images": []
+  },
+  {
+    "id": "legacy-116",
+    "name": "Арменайк 2,7 кг",
+    "price": 1440,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 116,
+    "images": []
+  },
+  {
+    "id": "legacy-117",
+    "name": "Арменайк 4,5 кг",
+    "price": 2380,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 117,
+    "images": []
+  },
+  {
+    "id": "legacy-118",
+    "name": "Чанах с чебрецом «Ереван» 0,7 кг",
+    "price": 285,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 118,
+    "images": [
+      {
+        "path": "/products/118-1.webp",
+        "alt": "Чанах с чебрецом «Ереван» 0,7 кг",
+        "position": 1,
+        "legacyFile": "Chanakh_s_chebretsom_Erevan_0_7_kg_1.jpg"
+      },
+      {
+        "path": "/products/118-2.webp",
+        "alt": "Чанах с чебрецом «Ереван» 0,7 кг",
+        "position": 2,
+        "legacyFile": "Chanakh_s_chebretsom_Erevan_0_7_kg_2.jpg"
+      },
+      {
+        "path": "/products/118-3.webp",
+        "alt": "Чанах с чебрецом «Ереван» 0,7 кг",
+        "position": 3,
+        "legacyFile": "Chanakh_s_chebretsom_Erevan_0_7_kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-119",
+    "name": "Сыр Чечил",
+    "price": 385,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 119,
+    "images": [
+      {
+        "path": "/products/119-1.webp",
+        "alt": "Сыр Чечил",
+        "position": 1,
+        "legacyFile": "Syr_Chechil_1.jpg"
+      },
+      {
+        "path": "/products/119-2.webp",
+        "alt": "Сыр Чечил",
+        "position": 2,
+        "legacyFile": "Syr_Chechil_2.jpg"
+      },
+      {
+        "path": "/products/119-3.webp",
+        "alt": "Сыр Чечил",
+        "position": 3,
+        "legacyFile": "Syr_Chechil_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-120",
+    "name": "Сыр Чечил Арм",
+    "price": 450,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "rassolnye_syry",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 120,
+    "images": []
+  },
+  {
+    "id": "legacy-121",
+    "name": "Топлёное масло 600 г Луговой",
+    "price": 155,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 121,
+    "images": []
+  },
+  {
+    "id": "legacy-122",
+    "name": "Топлёное масло 600 г Белорусское",
+    "price": 170,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 122,
+    "images": []
+  },
+  {
+    "id": "legacy-123",
+    "name": "Масло «Настоящее» 5 кг",
+    "price": 530,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 123,
+    "images": []
+  },
+  {
+    "id": "legacy-124",
+    "name": "Спред Землянский узоры 72% 5 кг",
+    "price": 244,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 124,
+    "images": []
+  },
+  {
+    "id": "legacy-125",
+    "name": "Спред р/с 72,5% Земляночка мон 5 кг",
+    "price": 541,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 125,
+    "images": []
+  },
+  {
+    "id": "legacy-126",
+    "name": "Спред Землянский узоры 72% 10 кг",
+    "price": 244,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 126,
+    "images": []
+  },
+  {
+    "id": "legacy-127",
+    "name": "Спред Землянский узоры 82,5% 5 кг",
+    "price": 308,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 127,
+    "images": []
+  },
+  {
+    "id": "legacy-128",
+    "name": "Спред Землянский узоры 82,5% 10 кг",
+    "price": 306,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 128,
+    "images": []
+  },
+  {
+    "id": "legacy-129",
+    "name": "Топлёное масло ГХИ",
+    "price": 300,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 129,
+    "images": []
+  },
+  {
+    "id": "legacy-130",
+    "name": "Масло сладко-сливочное 69% мон 5 кг",
+    "price": 830,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 130,
+    "images": []
+  },
+  {
+    "id": "legacy-131",
+    "name": "Масло Ичалковское Экстра 80% 180 г",
+    "price": 145,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "promo",
+    "published": true,
+    "sortOrder": 131,
+    "images": [
+      {
+        "path": "/products/131-1.webp",
+        "alt": "Масло Ичалковское Экстра 80% 180 г",
+        "position": 1,
+        "legacyFile": "Maslo_Ichalkovskoe_Ekstra_80_180_g_1.jpg"
+      },
+      {
+        "path": "/products/131-2.webp",
+        "alt": "Масло Ичалковское Экстра 80% 180 г",
+        "position": 2,
+        "legacyFile": "Maslo_Ichalkovskoe_Ekstra_80_180_g_2.jpg"
+      },
+      {
+        "path": "/products/131-3.webp",
+        "alt": "Масло Ичалковское Экстра 80% 180 г",
+        "position": 3,
+        "legacyFile": "Maslo_Ichalkovskoe_Ekstra_80_180_g_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-132",
+    "name": "Масло Ичалковское Экстра 80% 400 г",
+    "price": 335,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "slivochnoe_maslo",
+    "availability": "in_stock",
+    "badge": "promo",
+    "published": true,
+    "sortOrder": 132,
+    "images": [
+      {
+        "path": "/products/132-1.webp",
+        "alt": "Масло Ичалковское Экстра 80% 400 г",
+        "position": 1,
+        "legacyFile": "Maslo_Ichalkovskoe_Ekstra_80_400_g_1.jpg"
+      },
+      {
+        "path": "/products/132-2.webp",
+        "alt": "Масло Ичалковское Экстра 80% 400 г",
+        "position": 2,
+        "legacyFile": "Maslo_Ichalkovskoe_Ekstra_80_400_g_2.jpg"
+      },
+      {
+        "path": "/products/132-3.webp",
+        "alt": "Масло Ичалковское Экстра 80% 400 г",
+        "position": 3,
+        "legacyFile": "Maslo_Ichalkovskoe_Ekstra_80_400_g_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-133",
+    "name": "Катык «МТ»",
+    "price": 610,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 133,
+    "images": [
+      {
+        "path": "/products/133-1.webp",
+        "alt": "Катык «МТ»",
+        "position": 1,
+        "legacyFile": "Katyk_MT_1.jpg"
+      },
+      {
+        "path": "/products/133-2.webp",
+        "alt": "Катык «МТ»",
+        "position": 2,
+        "legacyFile": "Katyk_MT_2.jpg"
+      },
+      {
+        "path": "/products/133-3.webp",
+        "alt": "Катык «МТ»",
+        "position": 3,
+        "legacyFile": "Katyk_MT_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-134",
+    "name": "Катык «Ереван»",
+    "price": 610,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 134,
+    "images": [
+      {
+        "path": "/products/134-1.webp",
+        "alt": "Катык «Ереван»",
+        "position": 1,
+        "legacyFile": "Katyk_Yerevan_1.jpg"
+      },
+      {
+        "path": "/products/134-2.webp",
+        "alt": "Катык «Ереван»",
+        "position": 2,
+        "legacyFile": "Katyk_Yerevan_2.jpg"
+      },
+      {
+        "path": "/products/134-3.webp",
+        "alt": "Катык «Ереван»",
+        "position": 3,
+        "legacyFile": "Katyk_Yerevan_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-135",
+    "name": "Мацони «Монастырская Буренка»",
+    "price": 660,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 135,
+    "images": [
+      {
+        "path": "/products/135-1.webp",
+        "alt": "Мацони «Монастырская Буренка»",
+        "position": 1,
+        "legacyFile": "Matsoni_Monastyrskaya_Burenka_1.jpg"
+      },
+      {
+        "path": "/products/135-2.webp",
+        "alt": "Мацони «Монастырская Буренка»",
+        "position": 2,
+        "legacyFile": "Matsoni_Monastyrskaya_Burenka_2.jpg"
+      },
+      {
+        "path": "/products/135-3.webp",
+        "alt": "Мацони «Монастырская Буренка»",
+        "position": 3,
+        "legacyFile": "Matsoni_Monastyrskaya_Burenka_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-136",
+    "name": "Мацони «Апаран»",
+    "price": 610,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 136,
+    "images": [
+      {
+        "path": "/products/136-1.webp",
+        "alt": "Мацони «Апаран»",
+        "position": 1,
+        "legacyFile": "Matsoni_Aparan_1.jpg"
+      },
+      {
+        "path": "/products/136-2.webp",
+        "alt": "Мацони «Апаран»",
+        "position": 2,
+        "legacyFile": "Matsoni_Aparan_2.jpg"
+      },
+      {
+        "path": "/products/136-3.webp",
+        "alt": "Мацони «Апаран»",
+        "position": 3,
+        "legacyFile": "Matsoni_Aparan_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-137",
+    "name": "Катык «Апаран»",
+    "price": 610,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 137,
+    "images": [
+      {
+        "path": "/products/137-1.webp",
+        "alt": "Катык «Апаран»",
+        "position": 1,
+        "legacyFile": "Katyk_Aparan_1.jpg"
+      },
+      {
+        "path": "/products/137-2.webp",
+        "alt": "Катык «Апаран»",
+        "position": 2,
+        "legacyFile": "Katyk_Aparan_2.jpg"
+      },
+      {
+        "path": "/products/137-3.webp",
+        "alt": "Катык «Апаран»",
+        "position": 3,
+        "legacyFile": "Katyk_Aparan_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-138",
+    "name": "Мацони «Ереван»",
+    "price": 610,
+    "oldPrice": null,
+    "unit": "уп",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 138,
+    "images": [
+      {
+        "path": "/products/138-1.webp",
+        "alt": "Мацони «Ереван»",
+        "position": 1,
+        "legacyFile": "Matsoni_Erevan_1.jpg"
+      },
+      {
+        "path": "/products/138-2.webp",
+        "alt": "Мацони «Ереван»",
+        "position": 2,
+        "legacyFile": "Matsoni_Erevan_2.jpg"
+      },
+      {
+        "path": "/products/138-3.webp",
+        "alt": "Мацони «Ереван»",
+        "position": 3,
+        "legacyFile": "Matsoni_Erevan_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-139",
+    "name": "Сузьма 1 кг ведро",
+    "price": 150,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 139,
+    "images": [
+      {
+        "path": "/products/139-1.webp",
+        "alt": "Сузьма 1 кг ведро",
+        "position": 1,
+        "legacyFile": "Suzma_1_kg_vedro_1.jpg"
+      },
+      {
+        "path": "/products/139-2.webp",
+        "alt": "Сузьма 1 кг ведро",
+        "position": 2,
+        "legacyFile": "Suzma_1_kg_vedro_2.jpg"
+      },
+      {
+        "path": "/products/139-3.webp",
+        "alt": "Сузьма 1 кг ведро",
+        "position": 3,
+        "legacyFile": "Suzma_1_kg_vedro_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-140",
+    "name": "Сузьма 5 кг",
+    "price": 130,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 140,
+    "images": []
+  },
+  {
+    "id": "legacy-141",
+    "name": "Сузьма 10 кг",
+    "price": 100,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "maconi",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 141,
+    "images": []
+  },
+  {
+    "id": "legacy-142",
+    "name": "Сметанный продукт «МТ» 20% 5 кг ведро",
+    "price": 90,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "smetanny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 142,
+    "images": [
+      {
+        "path": "/products/142-1.webp",
+        "alt": "Сметанный продукт «МТ» 20% 5 кг ведро",
+        "position": 1,
+        "legacyFile": "Smetannyy_produkt_MT_20_5_kg_vedro_1.jpg"
+      },
+      {
+        "path": "/products/142-2.webp",
+        "alt": "Сметанный продукт «МТ» 20% 5 кг ведро",
+        "position": 2,
+        "legacyFile": "Smetannyy_produkt_MT_20_5kg_vedro_2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-143",
+    "name": "Сметанный продукт «Землянские узоры» 20% 5 кг ведро",
+    "price": 120,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "smetanny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 143,
+    "images": []
+  },
+  {
+    "id": "legacy-144",
+    "name": "Сметанный продукт «Альпийская коровка» 30% 5кг",
+    "price": null,
+    "oldPrice": null,
+    "unit": "кг",
+    "category": "smetanny_produkt",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 144,
+    "images": [
+      {
+        "path": "/products/144-1.webp",
+        "alt": "Сметанный продукт «Альпийская коровка» 30% 5кг",
+        "position": 1,
+        "legacyFile": "Smetannyy_produkt_Alpiyskaya_korovka_30_5kg_1.jpg"
+      },
+      {
+        "path": "/products/144-2.webp",
+        "alt": "Сметанный продукт «Альпийская коровка» 30% 5кг",
+        "position": 2,
+        "legacyFile": "Smetannyy_produkt_Alpiyskaya_korovka_30_5kg_2.jpg"
+      },
+      {
+        "path": "/products/144-3.webp",
+        "alt": "Сметанный продукт «Альпийская коровка» 30% 5кг",
+        "position": 3,
+        "legacyFile": "Smetannyy_produkt_Alpiyskaya_korovka_30_5kg_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-145",
+    "name": "Десерт «Малина»",
+    "price": 522,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "deserty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 145,
+    "images": []
+  },
+  {
+    "id": "legacy-146",
+    "name": "Десерт «Клубника»",
+    "price": 522,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "deserty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 146,
+    "images": []
+  },
+  {
+    "id": "legacy-147",
+    "name": "Десерт «Черника»",
+    "price": 522,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "deserty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 147,
+    "images": [
+      {
+        "path": "/products/147-1.webp",
+        "alt": "Десерт «Черника»",
+        "position": 1,
+        "legacyFile": "Desert_Chernika_1.jpg"
+      },
+      {
+        "path": "/products/147-2.webp",
+        "alt": "Десерт «Черника»",
+        "position": 2,
+        "legacyFile": "Desert_Chernika_2.jpg"
+      },
+      {
+        "path": "/products/147-3.webp",
+        "alt": "Десерт «Черника»",
+        "position": 3,
+        "legacyFile": "Desert_Chernika_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-148",
+    "name": "Десерт «Вишня»",
+    "price": 522,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "deserty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 148,
+    "images": []
+  },
+  {
+    "id": "legacy-149",
+    "name": "Десерт «Киви»",
+    "price": 522,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "deserty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 149,
+    "images": []
+  },
+  {
+    "id": "legacy-150",
+    "name": "Десерт «Абрикос – Манго»",
+    "price": 522,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "deserty",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 150,
+    "images": []
+  },
+  {
+    "id": "legacy-151",
+    "name": "Петмол 33% 1 л",
+    "price": 380,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "slivki",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 151,
+    "images": [
+      {
+        "path": "/products/151-1.webp",
+        "alt": "Петмол 33% 1 л",
+        "position": 1,
+        "legacyFile": "Petmol_33_1_l_1.jpg"
+      },
+      {
+        "path": "/products/151-2.webp",
+        "alt": "Петмол 33% 1 л",
+        "position": 2,
+        "legacyFile": "Petmol_33_1_l_2.jpg"
+      },
+      {
+        "path": "/products/151-3.webp",
+        "alt": "Петмол 33% 1 л",
+        "position": 3,
+        "legacyFile": "Petmol_33_1_l_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "legacy-152",
+    "name": "Шантипак 1 л",
+    "price": 235,
+    "oldPrice": null,
+    "unit": "шт",
+    "category": "slivki",
+    "availability": "in_stock",
+    "badge": "none",
+    "published": true,
+    "sortOrder": 152,
+    "images": []
+  }
+]
